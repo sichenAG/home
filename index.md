@@ -21,7 +21,7 @@ birational geometry, complex algebraic geometry and diophantine geometry
 
 - 2010.9-2014.6  B.S.  Faculty of Mathematics and Statistics, Hubei University
 
-## Employment
+### Employment
 -  2022.7- now     School of Mathematics, East China University of Science and Technology, Lecturer
 -  2020.5-2022.6  School of Mathematical Science, Fudan Unversity, Postdoctoral Fellow          
 

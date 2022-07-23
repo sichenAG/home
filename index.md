@@ -1,7 +1,7 @@
 ### Welcome to Sichen Li's homepage
 
 ### Brief CV
-I am now a lecturer at [ School of Mathematics](https://math.ecust.edu.cn), East China University of Science and Technology since July 2022. I obtained my Ph.D. in June 2020 from [School of Mathematical Sciences](https://math.ecnu.edu.cn),East China Normal University under the supervision of  [Prof. Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html), and from July 2018 as a [CSC](https://www.csc.edu.cn) student in two years  at [Department of Mathematics](https://www.math.nus.edu.sg), National University of Sigapore under the supervision of [Prof. De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) and [Prof. Fei Hu](https://sites.google.com/view/feihu90s/). After my graduation, I worked at Fudan Unversity  as a postdoc under the supervision of [Prof. Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) until June 2022.
+I am  a lecturer at [ School of Mathematics](https://math.ecust.edu.cn), East China University of Science and Technology since July 2022. I obtained my Ph.D. in June 2020 from [School of Mathematical Sciences](https://math.ecnu.edu.cn),East China Normal University under the supervision of  [Prof. Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html), and from July 2018 as a [CSC](https://www.csc.edu.cn) student in two years  at [Department of Mathematics](https://www.math.nus.edu.sg), National University of Sigapore under the supervision of [Prof. De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) and [Prof. Fei Hu](https://sites.google.com/view/feihu90s/). After my graduation, I worked at Fudan Unversity  as a postdoc under the supervision of [Prof. Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) until June 2022.
 
 ### Email
 sichenli@ecust.edu.cn
@@ -22,7 +22,7 @@ birational geometry, complex algebraic geometry and diophantine geometry
 - 2010.9-2014.6  B.S.  Faculty of Mathematics and Statistics, Hubei University
 
 ## Employment
--  2020.7- now   School of Mathematics, East China University of Science and Technology
+-  2020.7- now   School of Mathematics, East China University of Science and Technology, Lecturer
 -  2018.5-2020.6  School of Mathematical Science, Fudan Unversity, Postdoctoral Fellow          
 
 ### Teaching

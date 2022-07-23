@@ -7,9 +7,9 @@ Algebraic Geometry
 ### Research Interest
 birational geometry, complex algebraic geometry and diophantine geometry
 ## Education
-- 2016.9-2020.6, Ph.D. School of Mathematical Sciences,East China Normal University
+- 2016.9-2020.6  Ph.D. School of Mathematical Sciences,East China Normal University
 
-- 2018.7-2020.2  CSC student,  Department of Mathematics, National University of Sigapore
+- 2018.7-2020.2  CSC student   Department of Mathematics, National University of Sigapore
 
 - 2014.9-2016.6  M.S.  School of Mathematical Sciences, East China Normal University
 

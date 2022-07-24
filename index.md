@@ -1,7 +1,7 @@
-# Welcome to Sichen Li's homepage
+# Sichen Li's Homepage
 ### About me 
 
-I am working at [School of Mathematics](https://math.ecust.edu.cn),[East China University of Science and Technology](https://ecust.edu.cn/) since July 2022.
+My name is Sichen Li (李思辰 in Chinese). I am working at [School of Mathematics](https://math.ecust.edu.cn),[East China University of Science and Technology](https://ecust.edu.cn/) since July 2022.
  
 Before, I was a Postdoctoral Research Fellow at [School of Mathmatical Science](http://math.fudan.edu.cn/),[Fudan Univeristy](http://www.fudan.edu.cn/), under the supervision of [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) since May 2020.
 
@@ -27,7 +27,7 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 
 #### Employment
 -  July 2022 - now, School of Mathematics, East China University of Science and Technology,Lecturer 
--  May 2018 - June 2022, School of Mathematical Science, Fudan University, Postdoctoral Fellow 
+-  May 2018 - June 2022, School of Mathematical Sciences, Fudan University, Postdoctoral Fellow 
 
 #### Awards
 - December 2019, National Scholarship for Doctoral Students,School of Mathematical Sciences,East China Normal University
@@ -76,7 +76,10 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 -  [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) (mentor at [NUS](https://www.math.nus.edu.sg))
 
 #### Seminars
-- [Explicit Birational Geometry seminar](https://chenjiangfudan.github.io/home/conferences/XBGS.html)
+- [Algebraic Geometry Seminar](https://ymsc.tsinghua.edu.cn/info/1053/1730.htm), Yau Mathematical Sciences Center,Tsinghua University
+- [Online Seminar in Algebraic Geometry](https://math.ecnu.edu.cn/~tzhang/Onlineseminar.html), School of Mathematical Sciences, East China Normal University 
+- [Weekly (online) seminar on Explicit Birational Geometry](https://chenjiangfudan.github.io/home/conferences/XBGS.html), School of Mathmatical Sciences and Shanghai Centers for Mathematical Sciences, Fudan Univeristy 
+
 
 #### Useful Links
 - [arXiv](https://arxiv.org), [arXiv.math.AG-new](https://arxiv.org/list/math.AG/new),  [arXiv.math.AG-recent](https://arxiv.org/list/math.AG/recent)
@@ -87,8 +90,9 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 
 - [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS), [LetPub](http://www.letpub.com.cn/index.php?page=journalapp)
 
+- [AIM workshop problem lists](https://aimath.org/problemlists/)
+
 - [Zlibrary](https://zh.usa1lib.org)
 
-- [AIM workshop problem lists](https://aimath.org/problemlists/)
 
 ![Visitor Count](https://profile-counter.glitch.me/sichenAG/count.svg)

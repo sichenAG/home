@@ -8,7 +8,7 @@ Email: sichenli@ecust.edu.cn
 #### Research field: 
 Algebraic Geometry
 #### Research Interest:
-birational geometry, complex algebraic geometry and diophantine geometry
+I'm interested in birational geometry of algebraic vareties and explicit birational geometry inspired by dynamics.
 
 ### Cireiculum Vitae 
 

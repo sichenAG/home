@@ -1,30 +1,13 @@
 ### Welcome to Sichen Li's homepage
-
+- I am  a lecturer at [ School of Mathematics](https://math.ecust.edu.cn), East China University of Science and Technology since July 2022.
+- Address:
+School of Mathmatics, East China University Of Science And Technology,Xuhui Campus, 130 Meilong road,Shanghai, Shanghai,200237,China
+- Email: sichenli@ecust.edu.cn
+- Research field: Algebraic Geometry
+- Research Interest:birational geometry, complex algebraic geometry and diophantine geometry
 ### Brief CV
-I am  a lecturer at [ School of Mathematics](https://math.ecust.edu.cn), East China University of Science and Technology since July 2022. I obtained my Ph.D. in June 2020 from [School of Mathematical Sciences](https://math.ecnu.edu.cn),East China Normal University under the supervision of  [Prof. Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html), and from July 2018 as a [CSC](https://www.csc.edu.cn) student in two years  at [Department of Mathematics](https://www.math.nus.edu.sg), National University of Sigapore under the supervision of [Prof. De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) and [Prof. Fei Hu](https://sites.google.com/view/feihu90s/). After my graduation, I worked at Fudan Unversity  as a postdoc under the supervision of [Prof. Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) until June 2022.
-
-### Email
-sichenli@ecust.edu.cn
-
-### Research field
-Algebraic Geometry
-
-### Research Interest
-birational geometry, complex algebraic geometry and diophantine geometry
-
-### Education
-- 2016.9-2020.6  Ph.D. School of Mathematical Sciences,East China Normal University
-
-- 2018.7-2020.2  CSC student   Department of Mathematics, National University of Sigapore
-
-- 2014.9-2016.6  M.S.  School of Mathematical Sciences, East China Normal University
-
-- 2010.9-2014.6  B.S.  Faculty of Mathematics and Statistics, Hubei University
-
-### Employment
--  2022.7- now     School of Mathematics, East China University of Science and Technology, Lecturer
--  2020.5-2022.6  School of Mathematical Science, Fudan Unversity, Postdoctoral Fellow          
-
+I obtained my Ph.D. in June 2020 from [School of Mathematical Sciences](https://math.ecnu.edu.cn),East China Normal University under the supervision of  [Prof. Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html), and from July 2018 as a [CSC](https://www.csc.edu.cn) student in two years  at [Department of Mathematics](https://www.math.nus.edu.sg), National University of Sigapore under the supervision of [Prof. De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) and [Prof. Fei Hu](https://sites.google.com/view/feihu90s/) until Feb. 2020. From May 2020 I worked at Fudan Unversity  as a postdoc under the supervision of [Prof. Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) until June 2022.
+       
 ### Teaching
 - Spring 2021, Exercises course, Adavanced Algebra II, School of Mathematical Science, Fudan University
 

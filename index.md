@@ -12,7 +12,7 @@ birational geometry, complex algebraic geometry and diophantine geometry
 ### Employment
 -  Jul. 2022- now,   School of Mathematics, East China University of Science and Technology,Lecturer 
 -  May 2018- Jun. 2022, School of Mathematical Science, Fudan Unversity, Postdoctoral Fellow 
--  
+
 ### Education
 - Sep. 2014-Jun. 2020, Ph.D. School of Mathematical Sciences,East China Normal University
 - Jul.2018-Feb. 2020, CSC student,  Department of Mathematics, National University of Sigapore

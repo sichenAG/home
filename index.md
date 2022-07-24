@@ -1,7 +1,7 @@
 ## Welcome to Sichen Li's homepage
  I am working at [ School of Mathematics](https://math.ecust.edu.cn), [ECUST](https://ecust.edu.cn/) since Jul. 2022.
 #### Address:
-School of Mathmatics, East China University Of Science And Technology,Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
+School of Mathmatics, East China University of Science and Technology,Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
 
 Email: sichenli@ecust.edu.cn
 #### Research field: 

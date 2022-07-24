@@ -2,13 +2,13 @@
 ### About me 
 
  I am working at [ School of Mathematics](https://math.ecust.edu.cn), [ECUST](https://ecust.edu.cn/) since Jul. 2022.
-#### Address:
+#### Address
 School of Mathmatics, East China University of Science and Technology,Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
 
 Email: sichenli@ecust.edu.cn
-#### Research field: 
+#### Research field
 Algebraic Geometry
-#### Research Interest:
+#### Research Interest
 I'm interested in birational geometry of algebraic vareties and explicit birational geometry inspired by dynamics.
 
 ### Cireiculum Vitae 
@@ -28,6 +28,20 @@ I'm interested in birational geometry of algebraic vareties and explicit biratio
 
 ### Teaching
 - Spring 2021, Adavanced Algebra II with [Qihong Xie](https://www.cnblogs.com/torsor/), School of Mathematical Science, Fudan University
+
+### Academic Activities
+#### Travel(since 2022)
+- 23 Jul. 2022-now, visiting Chen Jiang and Jingjun Han,  Shanghai Center for Mathematical Sciences, Fudan University, Shanghai,China
+#### Talks
+- Dec. 2021, Algebraic Geometry Forum, Soochow University,Suzhou,China
+- Jul. 2021, Algebraic Seminar, Hubei University, Wuhan,China
+- Oct. 2019, Algebraic Geometry Seminar, ECNU, Shanghai,China 
+- Jul. 2019, The 2nd National Algebraic Geometry Conference, PhD talk, ECNU, Shanghai,China
+- Jun. 2019, Algebraic Seminar, Hubei University, Wuhan,China
+- Jun. 2019, Tianyuan talk, Soochow University, Suzhou,China
+- Jun. 2019, Algebraic Geometry Seminar, ECNU, Shanghai,China
+- Jun. 2019, Algebraic Geometry Seminar, SHNU, Shanghai,China
+- Apr. 2019, Topology and Geometry Seminar, NUS, Singapore 
 
 ### Publications and Preprints
 - Sichen Li, Bounding cohomology on a smooth projective surface with  Picard number two revisited,[arxiv:2103.01161](https://arxiv.org/abs/2103.02180v3)

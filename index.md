@@ -11,13 +11,16 @@ Algebraic Geometry
 birational geometry, complex algebraic geometry and diophantine geometry
 
 ### CV
+
 #### Education
 - Sep. 2014-Jun. 2020, Ph.D. School of Mathematical Sciences,East China Normal University
 - Jul.2018-Feb. 2020, CSC student,  Department of Mathematics, National University of Sigapore
 - Sep. 2010-Jun. 2014, B.S.Faculty of Mathematics and Statistics, Hubei University
+
 #### Employment
 -  Jul. 2022- now,   School of Mathematics, East China University of Science and Technology,Lecturer 
 -  May 2018- Jun. 2022, School of Mathematical Science, Fudan Unversity, Postdoctoral Fellow 
+
 #### Awards
 - Dec. 2019, National Scholarship for Doctoral Students,School of Mathematical Sciences,East China Normal University
 - Sep. 2014, Scholarship for Outstanding  Postgraduate Students,School of Mathematical Sciences,East China Normal University 

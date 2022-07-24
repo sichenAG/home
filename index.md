@@ -72,7 +72,7 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 -  [Fei Hu](https://sites.google.com/view/feihu90s/) (collaborator)
 -  [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) (mentor at [NUS](https://www.nus.edu.sg))
 #### Useful Links
-- [arXiv](https://arxiv.org),[arXiv.math.AG-new][https://arxiv.org/list/math.AG/new], [arXiv.math.AG-recent](https://arxiv.org/list/math.AG/recent)
+- [arXiv](https://arxiv.org),[arXiv.math.AG-new](https://arxiv.org/list/math.AG/new), [arXiv.math.AG-recent](https://arxiv.org/list/math.AG/recent)
 
 - [MathScinet](https://mathscinet.ams.org/mathscinet), [MathScinet Profile](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1360097)
 

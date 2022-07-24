@@ -3,10 +3,10 @@
 
 I am working at [School of Mathematics](https://math.ecust.edu.cn),[ECUST](https://ecust.edu.cn/) since Jul. 2022.
  
-Before, I was a Postdoctoral Research Fellow at [School of Mathmatical Science](http://math.fudan.edu.cn/),[Fudan Univeristy](http://www.fudan.edu.cn/), under the supervision of [Prof. Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm).
+Before, I was a Postdoctoral Research Fellow at [School of Mathmatical Science](http://math.fudan.edu.cn/),[Fudan Univeristy](http://www.fudan.edu.cn/), under the supervision of [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm).
 
  I received my Ph.D. from [East China Normal University](https://www.ecnu.edu.cn) under the supervision of [Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html) in Jun. 2020.
-And I was a CSC student at [Department of Mathematics](https://www.math.nus.edu.sg), National University of Sigapore under the supervision of [Prof. De-Qi Zhang](https://blog.nus.edu.sg/matzdq/).
+And I was a CSC student at [Department of Mathematics](https://www.math.nus.edu.sg), National University of Sigapore under the supervision of [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/).
 
 Prior to that, I received my B.S.from [Hubei University](http://www.hubu.edu.cn) in Jun. 2014.
 

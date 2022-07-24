@@ -34,15 +34,18 @@ I'm interested in birational geometry of algebraic vareties and explicit biratio
 - 23 Jul. 2022-now, visiting [Chen Jiang](https://chenjiangfudan.github.io/home/) and [Jingjun Han](https://sites.google.com/site/jingjunhan/),  Shanghai Center for Mathematical Sciences, Fudan University, Shanghai,China
 
 #### Talks
-- Dec. 2021, Algebraic Geometry Forum, Soochow University,Suzhou,China
-- Jul. 2021, Algebraic Seminar, Hubei University, Wuhan,China
-- Oct. 2019, Algebraic Geometry Seminar, ECNU, Shanghai,China 
-- Jul. 2019, The 2nd National Algebraic Geometry Conference, PhD talk, ECNU, Shanghai,China
-- Jun. 2019, Algebraic Seminar, Hubei University, Wuhan,China
-- Jun. 2019, Tianyuan talk, Soochow University, Suzhou,China
-- Jun. 2019, Algebraic Geometry Seminar, ECNU, Shanghai,China
-- Jun. 2019, Algebraic Geometry Seminar, SHNU, Shanghai,China
-- Apr. 2019, Topology and Geometry Seminar, NUS, Singapore 
+##### 2022
+##### 2021
+- 4-6 Nov. 2021, A survey on Kawaguchi-Silverman conjecture, Algebraic Geometry Forum, Soochow University,Suzhou,China
+- 7 Jul. 2021, Bounding cohomology on a smooth projective surface, Algebra Seminar, Hubei University, Wuhan,China
+##### 2019
+- 11 Oct. 2019, Derived length of zero entropy groups acting on projective varieties in arbitrary characteristic--A remark to a paper of Dinh-Oguiso-Zhang, [Algebraic Geometry Seminar](https://math.ecnu.edu.cn/academia/ags/), ECNU, Shanghai,China 
+- 1-5, Jul. 2019, A note on a smooth projective surface with Picard number 2, The 2nd National Algebraic Geometry Conference, PhD talk, ECNU, Shanghai,China
+- 25. Jun. 2019, A note on a smooth projective surface with Picard number 2, Algebraic Seminar, Hubei University, Wuhan,China
+- 25 Jun. 2019, Algebraic varieties with automorphism groups of sub-maximal dynamical rank, [Algebraic Geometry Seminar](https://math.ecnu.edu.cn/academia/ags/), ECNU, Shanghai,China
+- 24 Jun. 2019, Free abelian group actions on normal projective varieties, Tianyuan talk, Soochow University, Suzhou,China
+- 23 Jun. 2019, Free abelian group actions on normal projective varieties, Algebraic Geometry Seminar, SHNU, Shanghai,China
+- 17 Apr. 2019, A note on a smooth projective surface with Picard number 2, Topology and Geometry Seminar, NUS, Singapore 
 
 ### Publications and Preprints
 - Sichen Li, Bounding cohomology on a smooth projective surface with  Picard number two revisited,[arxiv:2103.01161](https://arxiv.org/abs/2103.02180v3)

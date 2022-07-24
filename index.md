@@ -1,16 +1,18 @@
 ## Welcome to Sichen Li's homepage
- I am working at [ School of Mathematics](https://math.ecust.edu.cn), East China University of Science and Technology since July 2022.
+ I am working at [ School of Mathematics](https://math.ecust.edu.cn), East China University of Science and Technology since Jul. 2022.
 #### Address:
-School of Mathmatics, East China University Of Science And Technology,Xuhui Campus, 130 Meilong road,Shanghai, 200237,China
+School of Mathmatics, East China University Of Science And Technology,Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
 
 Email: sichenli@ecust.edu.cn
 #### Research field: 
 Algebraic Geometry
 #### Research Interest:
 birational geometry, complex algebraic geometry and diophantine geometry
+
 ### Employment
 -  Jul. 2022- now,   School of Mathematics, East China University of Science and Technology,Lecturer 
 -  May 2018- Jun. 2022, School of Mathematical Science, Fudan Unversity, Postdoctoral Fellow 
+-  
 ### Education
 - Sep. 2014-Jun. 2020, Ph.D. School of Mathematical Sciences,East China Normal University
 - Jul.2018-Feb. 2020, CSC student,  Department of Mathematics, National University of Sigapore

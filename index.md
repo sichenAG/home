@@ -26,8 +26,8 @@ birational geometry, complex algebraic geometry and diophantine geometry
 - Sichen Li, Bounding cohomology on algebraic varieties,[arxiv:1805.10741v8](https://arxiv.org/abs/1805.10741v8)
 - Sichen Li, A note on a smooth projective surface with Picard number two, Math. Narch. 292(2019), no. 12, 2637-2642.[journal](https://doi.org/10.1002/mana.201800448),[arxiv](https://arxiv.org/abs/1805.08362v5)
 ### Mathematican
--[Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm)（mentor at Fudan University)
--[Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html)(supervision)
--[Fei Hu](https://sites.google.com/view/feihu90s/)（collaborator）
+- [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm)（mentor at Fudan University)
+- [Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html)(supervision)
+- [Fei Hu](https://sites.google.com/view/feihu90s/)（collaborator）
 - [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/)(mentor at National University of Sigapore)
 

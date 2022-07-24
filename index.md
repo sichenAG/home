@@ -14,8 +14,7 @@ Prior to that, I received my B.S. from [Hubei University](http://www.hubu.edu.cn
 School of Mathmatics, East China University of Science and Technology, Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
 
 Email: sichenli@ecust.edu.cn
-#### Research field
-Algebraic Geometry
+
 #### Research Interest
 I'm interested in birational geometry of algebraic varieties and explicit birational geometry inspired by dynamics.
 
@@ -89,7 +88,7 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 
 - [MathScinet](https://mathscinet.ams.org/mathscinet), [MathScinet Profile](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1360097)
 
-- [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS), [LetPub期刊查询](http://www.letpub.com.cn/index.php?page=journalapp), [Zlibrary](https://zh.usa1lib.org)
+- [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS), [LetPub](http://www.letpub.com.cn/index.php?page=journalapp), [Zlibrary](https://zh.usa1lib.org)
 
 - [AIM workshop problem lists](https://aimath.org/problemlists/)
 

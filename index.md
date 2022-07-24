@@ -8,10 +8,10 @@ Before, I was a Postdoctoral Research Fellow at [School of Mathmatical Science](
  I received my Ph.D. from [East China Normal University](https://www.ecnu.edu.cn) under the supervision of [Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html) in June 2020.
 And since July 2018 I was a CSC student at [Department of Mathematics](https://www.math.nus.edu.sg), [National University of Sigapore](https://www.nus.edu.sg) under the supervision of [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) until February 2020.
 
-Prior to that, I received my B.S.from [Hubei University](http://www.hubu.edu.cn) in Jun. 2014.
+Prior to that, I received my B.S. from [Hubei University](http://www.hubu.edu.cn) in Jun. 2014.
 
 #### Address
-School of Mathmatics, East China University of Science and Technology,Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
+School of Mathmatics, East China University of Science and Technology, Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
 
 Email: sichenli@ecust.edu.cn
 #### Research field

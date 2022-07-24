@@ -10,7 +10,7 @@ Algebraic Geometry
 #### Research Interest:
 birational geometry, complex algebraic geometry and diophantine geometry
 
-### CV
+### Cireiculum Vitae 
 
 #### Education
 - Sep. 2014-Jun. 2020, Ph.D. School of Mathematical Sciences,East China Normal University
@@ -27,6 +27,7 @@ birational geometry, complex algebraic geometry and diophantine geometry
 
 ### Teaching
 - Spring 2021, Adavanced Algebra II with [Qihong Xie](https://www.cnblogs.com/torsor/), School of Mathematical Science, Fudan University
+
 ### Publications and Preprints
 - Sichen Li, Bounding cohomology on a smooth projective surface with  Picard number two revisited,[arxiv:2103.01161](https://arxiv.org/abs/2103.02180v3)
 - Sichen Li and Yohsuke Matuszawa, A note on Kawaguchi-Silverman conjecture, Internat. J. Math. 32 (2021), no. 11, 2150085.[journal](https://www.worldscientific.com/doi/abs/10.1142/S0129167X21500853),[arxiv](https://arxiv.org/abs/2003.01161v1)

@@ -82,17 +82,14 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 
 
 #### Useful Links
+
 - [arXiv](https://arxiv.org), [arXiv.math.AG-new](https://arxiv.org/list/math.AG/new),  [arXiv.math.AG-recent](https://arxiv.org/list/math.AG/recent)
+
+- [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS), [LetPub](http://www.letpub.com.cn/index.php?page=journalapp)
 
 - [MathScinet](https://mathscinet.ams.org/mathscinet),  [MathScinet Profile](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1360097)
 
 - [Researchgate](https://www.researchgate.net), [Researchgate Profile](https://www.researchgate.net/profile/Sichen-Li-3)
-
-- [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS), [LetPub](http://www.letpub.com.cn/index.php?page=journalapp)
-
-- [AIM workshop problem lists](https://aimath.org/problemlists/)
-
-- [Zlibrary](https://zh.usa1lib.org)
 
 
 ![Visitor Count](https://profile-counter.glitch.me/sichenAG/count.svg)

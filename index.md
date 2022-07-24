@@ -1,7 +1,15 @@
 # Welcome to Sichen Li's homepage
 ### About me 
 
- I am working at [ School of Mathematics](https://math.ecust.edu.cn), [ECUST](https://ecust.edu.cn/) since Jul. 2022.
+I am working at [School of Mathematics](https://math.ecust.edu.cn),[ECUST](https://ecust.edu.cn/) since Jul. 2022.
+ 
+Before, I was a Postdoctoral Research Fellow at [School of Mathmatical Science](http://math.fudan.edu.cn/),[Fudan Univeristy](http://www.fudan.edu.cn/), under the supervision of [Prof. Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm).
+
+ I received my Ph.D. from [East China Normal University](https://www.ecnu.edu.cn) under the supervision of [Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html) in Jun. 2020.
+And I was a CSC student at [Department of Mathematics](https://www.math.nus.edu.sg), National University of Sigapore under the supervision of [Prof. De-Qi Zhang](https://blog.nus.edu.sg/matzdq/).
+
+Prior to that, I received my B.S.from [Hubei University](http://www.hubu.edu.cn) in Jun. 2014.
+
 #### Address
 School of Mathmatics, East China University of Science and Technology,Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
 
@@ -16,7 +24,7 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 #### Education
 - Sep. 2014-Jun. 2020, Ph.D. School of Mathematical Sciences,East China Normal University
 - Jul. 2018-Feb. 2020, CSC student,  Department of Mathematics, National University of Sigapore
-- Sep. 2010-Jun. 2014, B.S.Faculty of Mathematics and Statistics, Hubei University
+- Sep. 2010-Jun. 2014, B.S. Faculty of Mathematics and Statistics, Hubei University
 
 #### Employment
 -  Jul. 2022- now,   School of Mathematics, East China University of Science and Technology,Lecturer 

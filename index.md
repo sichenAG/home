@@ -20,7 +20,7 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 
 #### Employment
 -  Jul. 2022- now,   School of Mathematics, East China University of Science and Technology,Lecturer 
--  May 2018- Jun. 2022, School of Mathematical Science, Fudan Unversity, Postdoctoral Fellow 
+-  May 2018- Jun. 2022, School of Mathematical Science, Fudan University, Postdoctoral Fellow 
 
 #### Awards
 - Dec. 2019, National Scholarship for Doctoral Students,School of Mathematical Sciences,East China Normal University
@@ -67,10 +67,10 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 
 ### Links 
 #### Mathematicans
-- [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) (mentor at [Fudan U.](https://www.fudan.edu.cn))
+- [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) (mentor at [Fudan University](https://www.fudan.edu.cn))
 - [Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html) (supervision)
 -  [Fei Hu](https://sites.google.com/view/feihu90s/) (collaborator)
--  [Yohsuke Matuszawa](https://univdb.rikkyo.ac.jp/view?l=en&u=100002311)(collarborator)
+-  [Yohsuke Matuszawa](https://univdb.rikkyo.ac.jp/view?l=en&u=100002311) (collarborator)
 -  [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) (mentor at [NUS](https://www.nus.edu.sg))
 
 #### Useful Links

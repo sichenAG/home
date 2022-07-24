@@ -8,7 +8,7 @@ Before, I was a Postdoctoral Research Fellow at [School of Mathmatical Science](
  I received my Ph.D. from [East China Normal University](https://www.ecnu.edu.cn) under the supervision of [Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html) in June 2020.
 And since July 2018 I was a CSC student at [Department of Mathematics](https://www.math.nus.edu.sg), [National University of Sigapore](https://www.nus.edu.sg) under the supervision of [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) until February 2020.
 
-Prior to that, I received my B.S. from [Hubei University](http://www.hubu.edu.cn) in Jun. 2014.
+Prior to that, I received my B.S. from [Hubei University](http://www.hubu.edu.cn) in June 2014.
 
 #### Address
 School of Mathmatics, East China University of Science and Technology, Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
@@ -22,17 +22,17 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 ### Cireiculum Vitae 
 
 #### Education
-- Sep. 2014-Jun. 2020, Ph.D. School of Mathematical Sciences,East China Normal University
-- Jul. 2018-Feb. 2020, CSC student,  Department of Mathematics, National University of Sigapore
-- Sep. 2010-Jun. 2014, B.S. Faculty of Mathematics and Statistics, Hubei University
+- September 2014 - June 2020, Ph.D. School of Mathematical Sciences,East China Normal University
+- July 2018 - February 2020, CSC student,  Department of Mathematics, National University of Sigapore
+- September 2010 - June 2014, B.S. Faculty of Mathematics and Statistics, Hubei University
 
 #### Employment
--  Jul. 2022- now,   School of Mathematics, East China University of Science and Technology,Lecturer 
--  May  2018- Jun. 2022, School of Mathematical Science, Fudan University, Postdoctoral Fellow 
+-  July 2022 - now,   School of Mathematics, East China University of Science and Technology,Lecturer 
+-  May 2018 - June 2022, School of Mathematical Science, Fudan University, Postdoctoral Fellow 
 
 #### Awards
-- Dec. 2019, National Scholarship for Doctoral Students,School of Mathematical Sciences,East China Normal University
-- Sep. 2014, Scholarship for Outstanding  Postgraduate Students,School of Mathematical Sciences,East China Normal University 
+- December 2019, National Scholarship for Doctoral Students,School of Mathematical Sciences,East China Normal University
+- September 2014, Scholarship for Outstanding  Postgraduate Students,School of Mathematical Sciences,East China Normal University 
 
 ### Teaching
 - Spring 2021, Adavanced Algebra II with [Qihong Xie](https://www.cnblogs.com/torsor/), School of Mathematical Science, Fudan University
@@ -40,22 +40,22 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 ### Academic Activities
 
 #### Travel (since 2022)
-1. Jul. 23,2022-now, visiting [Chen Jiang](https://chenjiangfudan.github.io/home/) and [Jingjun Han](https://sites.google.com/site/jingjunhan/),  Shanghai Center for Mathematical Sciences, Fudan University, Shanghai,China
-2.  Feb. 18-25,2022, visiting Yaxiong Chen, Sanya Technology Innovation Park, Wuhan University of Technology, Sanya, China
+1. June 23, 2022 - now, visiting [Chen Jiang](https://chenjiangfudan.github.io/home/) and [Jingjun Han](https://sites.google.com/site/jingjunhan/),  Shanghai Center for Mathematical Sciences, Fudan University, Shanghai,China
+2.  February 18-25, 2022, visiting Yaxiong Chen, Sanya Technology Innovation Park, Wuhan University of Technology, Sanya, China
 
 #### Talks (since 2019)
 ##### 2021
-1.  Nov. 4-6,2021, A survey on Kawaguchi-Silverman conjecture, Algebraic Geometry Forum, Soochow University,Suzhou,China
-2. Jul. 7, 2021, Bounding cohomology on a smooth projective surface, Algebra Seminar, Hubei University, Wuhan,China
+1.  November 4-6, 2021, A survey on Kawaguchi-Silverman conjecture, Algebraic Geometry Forum, Soochow University,Suzhou,China
+2. July 7, 2021, Bounding cohomology on a smooth projective surface, Algebra Seminar, Hubei University, Wuhan,China
 
 ##### 2019
-1. Oct. 11,2019, Derived length of zero entropy groups acting on projective varieties in arbitrary characteristic--A remark to a paper of Dinh-Oguiso-Zhang, [Algebraic Geometry Seminar](https://math.ecnu.edu.cn/academia/ags/), ECNU, Shanghai,China 
-2.  Jul. 1-5,2019, A note on a smooth projective surface with Picard number 2, The 2nd National Algebraic Geometry Conference, PhD talk, ECNU, Shanghai,China
-3.  Jun. 28, 2019, A note on a smooth projective surface with Picard number 2, Algebraic Seminar, Hubei University, Wuhan,China
-4.  Jun. 25, 2019, Algebraic varieties with automorphism groups of sub-maximal dynamical rank, [Algebraic Geometry Seminar](https://math.ecnu.edu.cn/academia/ags/), ECNU, Shanghai,China
-5.  Jun. 24, 2019, Free abelian group actions on normal projective varieties, Tianyuan talk, Soochow University, Suzhou,China
-6.  Jun. 23, 2019, Free abelian group actions on normal projective varieties, Algebraic Geometry Seminar, SHNU, Shanghai,China
-7.  Apr. 17, 2019, A note on a smooth projective surface with Picard number 2, [Topology and Geometry Seminar](https://www.math.nus.edu.sg/category/events/colloquia-seminars/topology-geometry/), NUS, Singapore 
+1. October 11,2019, Derived length of zero entropy groups acting on projective varieties in arbitrary characteristic--A remark to a paper of Dinh-Oguiso-Zhang, [Algebraic Geometry Seminar](https://math.ecnu.edu.cn/academia/ags/), ECNU, Shanghai,China 
+2.  July 1-5,2019, A note on a smooth projective surface with Picard number 2, The 2nd National Algebraic Geometry Conference, PhD talk, ECNU, Shanghai,China
+3.  June 28, 2019, A note on a smooth projective surface with Picard number 2, Algebraic Seminar, Hubei University, Wuhan,China
+4.  June 25, 2019, Algebraic varieties with automorphism groups of sub-maximal dynamical rank, [Algebraic Geometry Seminar](https://math.ecnu.edu.cn/academia/ags/), ECNU, Shanghai,China
+5.  June 24, 2019, Free abelian group actions on normal projective varieties, Tianyuan talk, Soochow University, Suzhou,China
+6.  June 23, 2019, Free abelian group actions on normal projective varieties, Algebraic Geometry Seminar, SHNU, Shanghai,China
+7.  April 17, 2019, A note on a smooth projective surface with Picard number 2, [Topology and Geometry Seminar](https://www.math.nus.edu.sg/category/events/colloquia-seminars/topology-geometry/), NUS, Singapore 
 
 ### Publications
 #### Accepted papers
@@ -80,6 +80,9 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 -  [Fei Hu](https://sites.google.com/view/feihu90s/) (collaborator)
 -  [Yohsuke Matuszawa](https://univdb.rikkyo.ac.jp/view?l=en&u=100002311) (collarborator)
 -  [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) (mentor at [NUS](https://www.math.nus.edu.sg))
+
+#### Seminars
+- [Explicit Birational Geometry seminar] (https://chenjiangfudan.github.io/home/conferences/XBGS.html)
 
 #### Useful Links
 - [arXiv](https://arxiv.org),[arXiv.math.AG-new](https://arxiv.org/list/math.AG/new), [arXiv.math.AG-recent](https://arxiv.org/list/math.AG/recent)

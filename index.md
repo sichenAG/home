@@ -89,7 +89,7 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 
 - [MathScinet](https://mathscinet.ams.org/mathscinet), [MathScinet Profile](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1360097)
 
-- [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS)
+- [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS), [LetPub期刊查询](http://www.letpub.com.cn/index.php?page=journalapp), [Zlibrary](https://zh.usa1lib.org)
 
 - [AIM workshop problem lists](https://aimath.org/problemlists/)
 

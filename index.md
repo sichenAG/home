@@ -71,7 +71,7 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 3. Sichen Li, Bounding cohomology on a smooth projective surface with  Picard number two revisited,[arxiv:2103.01161](https://arxiv.org/abs/2103.02180v3)
 
 #### Others
-1. Sichen Li, Bounding cohomology on algebraic varieties,[arxiv:1805.10741v8](https://arxiv.org/abs/1805.10741v8)
+1. Sichen Li, Bounding cohomology on algebraic varieties,[arxiv:1805.10741](https://arxiv.org/abs/1805.10741v8)
 
 ### Links 
 #### Mathematicans

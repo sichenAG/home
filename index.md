@@ -66,7 +66,19 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 1. Sichen Li, Bounding cohomology on algebraic varieties,[arxiv:1805.10741v8](https://arxiv.org/abs/1805.10741v8)
 
 ### Links 
-#### Mathematican
-[Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) (mentor at [Fudan U.](https://www.fudan.edu.cn)), [Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html) (supervision), [Fei Hu](https://sites.google.com/view/feihu90s/) (collaborator), [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) (mentor at [NUS](https://www.nus.edu.sg))
+#### Mathematicans
+- [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) (mentor at [Fudan U.](https://www.fudan.edu.cn))
+- [Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html) (supervision)
+-  [Fei Hu](https://sites.google.com/view/feihu90s/) (collaborator)
+-  [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) (mentor at [NUS](https://www.nus.edu.sg))
+#### Useful Links
+- [arXiv](https://arxiv.org),[arXiv.math.AG-new][https://arxiv.org/list/math.AG/new], [arXiv.math.AG-recent](https://arxiv.org/list/math.AG/recent)
+
+- [MathScinet](https://mathscinet.ams.org/mathscinet), [MathScinet Profile](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1360097)
+
+- [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS)
+
+- [AIM workshop problem lists](https://aimath.org/problemlists/)
+
 
 ![Visitor Count](https://profile-counter.glitch.me/sichenAG/count.svg)

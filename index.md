@@ -31,7 +31,7 @@ I'm interested in birational geometry of algebraic vareties and explicit biratio
 
 ### Academic Activities
 #### Travel(since 2022)
-- 23 Jul. 2022-now, visiting Chen Jiang and Jingjun Han,  Shanghai Center for Mathematical Sciences, Fudan University, Shanghai,China
+- 23 Jul. 2022-now, visiting [Chen Jiang](https://chenjiangfudan.github.io/home/) and [Jingjun Han](https://sites.google.com/site/jingjunhan/),  Shanghai Center for Mathematical Sciences, Fudan University, Shanghai,China
 #### Talks
 - Dec. 2021, Algebraic Geometry Forum, Soochow University,Suzhou,China
 - Jul. 2021, Algebraic Seminar, Hubei University, Wuhan,China

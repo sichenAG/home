@@ -82,7 +82,7 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 -  [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) (mentor at [NUS](https://www.math.nus.edu.sg))
 
 #### Seminars
-- [Explicit Birational Geometry seminar] (https://chenjiangfudan.github.io/home/conferences/XBGS.html)
+- [Explicit Birational Geometry seminar](https://chenjiangfudan.github.io/home/conferences/XBGS.html)
 
 #### Useful Links
 - [arXiv](https://arxiv.org),[arXiv.math.AG-new](https://arxiv.org/list/math.AG/new), [arXiv.math.AG-recent](https://arxiv.org/list/math.AG/recent)

@@ -68,7 +68,7 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 7.  April 17, 2019, A note on a smooth projective surface with Picard number 2, [Topology and Geometry Seminar](https://www.math.nus.edu.sg/category/events/colloquia-seminars/topology-geometry/), National University of Sigapore, Singapore 
 
 ### Links 
-#### Mathematicans
+#### Mathematicians
 - [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) (mentor at [Fudan University](https://www.math.fudan.edu.cn))
 - [Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html) (supervision)
 -  [Fei Hu](https://sites.google.com/view/feihu90s/) (collaborator)
@@ -91,5 +91,6 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 
 - [Researchgate](https://www.researchgate.net), [Researchgate Profile](https://www.researchgate.net/profile/Sichen-Li-3)
 
+Last update: July 26,2022
 
 ![Visitor Count](https://profile-counter.glitch.me/sichenAG/count.svg)

@@ -74,7 +74,7 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 ### Links 
 #### Mathematicians
 - [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) (mentor at [Fudan University](https://www.math.fudan.edu.cn))
-- [Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html) (supervision)
+- [Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html) (supervisior)
 -  [Fei Hu](https://sites.google.com/view/feihu90s/) (collaborator)
 -  [Yohsuke Matuszawa](https://univdb.rikkyo.ac.jp/view?l=en&u=100002311) (collarborator)
 -  [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) (mentor at [NUS](https://www.math.nus.edu.sg))

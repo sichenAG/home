@@ -52,7 +52,10 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 1. Bounding cohomology on a smooth projective surface with  Picard number two revisited,[arXiv:2103.01161](https://arxiv.org/abs/2103.02180v3)
 
 ### Activities
-
+#### Conferences 
+- July 18-22,2022,[3rd National Algebraic Geometry Conference(online)](https://scms.fudan.edu.cn/info/3399/4947.htm),School of Mathematical Sciences and Shanghai Center for Mathematical Sciences, Fudan Univerisity
+#### School Summers
+- August 8-19,2022,[2022 SCMS Algebraic Geometry Summer School(online)](https://scms.fudan.edu.cn/info/4352/5029.htm), Shanghai Center for Mathematical Sciences, Fudan University 
 #### Travel (since 2022)
 1.  June 23, 2022 - now, visiting [Jingjun Han](https://sites.google.com/site/jingjunhan/) and [Chen Jiang](https://chenjiangfudan.github.io/home/), Shanghai Center for Mathematical Sciences, Fudan University, Shanghai,China
 2.  February 18-25, 2022, visiting Yaxiong Chen, Sanya Technology Innovation Park, Wuhan University of Technology, Sanya, China
@@ -95,6 +98,6 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 
 - [Researchgate](https://www.researchgate.net), [Researchgate Profile](https://www.researchgate.net/profile/Sichen-Li-3)
 
-Last update: July 27,2022
+Last update: July 28,2022
 
 ![Visitor Count](https://profile-counter.glitch.me/sichenAG/count.svg)

@@ -49,7 +49,9 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 5. A note on a smooth projective surface with Picard number two, Math. Narch. 292(2019), no. 12, 2637-2642. ([journal](https://doi.org/10.1002/mana.201800448),[arXiv](https://arxiv.org/abs/1805.08362v5))
 
 #### Preprints
-1. Bounding cohomology on a smooth projective surface with  Picard number two revisited,[arXiv:2103.01161](https://arxiv.org/abs/2103.02180v3)
+1. Zariski dense orbit conjecture on projective threefolds, in preparation.
+2. Kawaguchi-Silverman conjecture on projective threefolds, in preparation.
+3. Bounding cohomology on a smooth projective surface with  Picard number two revisited,[arXiv:2103.01161](https://arxiv.org/abs/2103.02180v3)
 
 ### Activities
 #### Conferences 
@@ -59,12 +61,10 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 #### Travel (since 2022)
 1.  June 23, 2022 - now, visiting [Jingjun Han](https://sites.google.com/site/jingjunhan/) and [Chen Jiang](https://chenjiangfudan.github.io/home/), Shanghai Center for Mathematical Sciences, Fudan University, Shanghai,China
 2.  February 18-25, 2022, visiting Yaxiong Chen, Sanya Technology Innovation Park, Wuhan University of Technology, Sanya, China
-
 #### Talks (since 2019)
 ##### 2021
 1.  November 4-6, 2021, A survey on Kawaguchi-Silverman conjecture, Algebraic Geometry Forum, Soochow University, Suzhou, China 
 2. July 7, 2021, Bounding cohomology on a smooth projective surface, Hubei University, Wuhan, China
-
 ##### 2019
 1. October 11,2019, Derived length of zero entropy groups acting on projective varieties in arbitrary characteristic--A remark to a paper of Dinh-Oguiso-Zhang, [Algebraic Geometry Seminar](https://math.ecnu.edu.cn/academia/ags/), East China Normal University, Shanghai,China 
 2.  July 1-5,2019, A note on a smooth projective surface with Picard number 2, The 2nd National Algebraic Geometry Conference, PhD talk, East China Normal University, Shanghai, China

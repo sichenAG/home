@@ -10,28 +10,16 @@ And since July 2018 I was a CSC student at [Department of Mathematics](https://w
 
 Prior to that, I received my B.S. from [Hubei University](http://www.hubu.edu.cn) in June 2014.
 
+My CV is here.
+
 #### Address
 School of Mathmatics, East China University of Science and Technology, Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
 
 Email: sichenli@ecust.edu.cn
 
 #### Research Interest
-I'm interested in birational geometry of algebraic varieties and explicit birational geometry inspired by dynamics.
+Birational geometry of algebraic varieties and explicit birational geometry inspired by dynamics.
 
-### Cireiculum Vitae 
-
-#### Education
-- September 2014 - June 2020, School of Mathematical Sciences,East China Normal University, Ph.D.
-- July 2018 - February 2020,  Department of Mathematics, National University of Sigapore, CSC student
-- September 2010 - June 2014, Faculty of Mathematics and Statistics, Hubei University, B.S.
-
-#### Employment
--  July 2022 - now, School of Mathematics, East China University of Science and Technology,Lecturer 
--  May 2018 - June 2022, School of Mathematical Sciences, Fudan University, Postdoctoral Fellow 
-
-#### Awards
-- December 2019, National Scholarship for Doctoral Students,School of Mathematical Sciences,East China Normal University
-- September 2014, Scholarship for Outstanding  Postgraduate Students,School of Mathematical Sciences,East China Normal University 
 
 ### Teaching
 - Spring 2021, Adavanced Algebra II with [Qihong Xie](https://www.cnblogs.com/torsor/), School of Mathematical Science, Fudan University
@@ -68,6 +56,7 @@ I'm interested in birational geometry of algebraic varieties and explicit birati
 ##### 2021
 1.  November 4-6, 2021, A survey on Kawaguchi-Silverman conjecture, Algebraic Geometry Forum, Soochow University, Suzhou, China 
 2. July 7, 2021, Bounding cohomology on a smooth projective surface, Hubei University, Wuhan, China
+
 ##### 2019
 1. October 11,2019, Derived length of zero entropy groups acting on projective varieties in arbitrary characteristic--A remark to a paper of Dinh-Oguiso-Zhang, [Algebraic Geometry Seminar](https://math.ecnu.edu.cn/academia/ags/), East China Normal University, Shanghai,China 
 2.  July 1-5,2019, A note on a smooth projective surface with Picard number 2, The 2nd National Algebraic Geometry Conference, PhD talk, East China Normal University, Shanghai, China

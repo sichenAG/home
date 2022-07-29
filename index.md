@@ -10,7 +10,7 @@ And since July 2018 I was a CSC student at [Department of Mathematics](https://w
 
 Prior to that, I received my B.S. from [Hubei University](http://www.hubu.edu.cn) in June 2014.
 
-Here is my  <a href=" https://github.com/sichenAG/home/resume.pdf" target="_blank">CV</a>.
+Here is my  <a href="https://github.com/sichenAG/home/blob/d56de2868e8fc8f84c84658e01759d8d82988493/resume.pdf" target="_blank">CV</a>.
 
 #### Address
 School of Mathmatics, East China University of Science and Technology, Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China

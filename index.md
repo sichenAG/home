@@ -90,6 +90,4 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 
 - [Researchgate](https://www.researchgate.net), [Researchgate Profile](https://www.researchgate.net/profile/Sichen-Li-3)
 
-Last update: July 29,2022
-
-![Visitor Count](https://profile-counter.glitch.me/sichenAG/count.svg)
+Last updated: July 29,2022

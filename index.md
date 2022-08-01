@@ -37,9 +37,9 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 5. A note on a smooth projective surface with Picard number two, Math. Narch. 292(2019), no. 12, 2637-2642. ([journal](https://doi.org/10.1002/mana.201800448),[arXiv](https://arxiv.org/abs/1805.08362v5))
 
 #### Preprints
-1. Zariski dense orbit conjecture on projective threefolds, in preparation.
-2. Kawaguchi-Silverman conjecture on projective threefolds, submitted for publication,<a href="https://sichenag.github.io/home/resume.pdf" target="_blank">pdf</a>.
-3. Bounding cohomology on a smooth projective surface with  Picard number two revisited,submitted for publication, [arXiv:2103.01161](https://arxiv.org/abs/2103.02180v3)
+1. Zariski dense orbit conjecture on projective threefolds, submitted for publication. 
+2. Kawaguchi-Silverman conjecture on projective threefolds, submitted for publication,<a href="https://sichenag.github.io/home/KSC-29July22.pdf" target="_blank">pdf</a>.
+4. Bounding cohomology on a smooth projective surface with  Picard number two revisited,submitted for publication, [arXiv:2103.01161](https://arxiv.org/abs/2103.02180v3)
 
 ### Activities
 #### Conferences 

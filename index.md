@@ -10,7 +10,7 @@ And since July 2018 I was a CSC student at [Department of Mathematics](https://w
 
 Prior to that, I received my B.S. from [Hubei University](http://www.hubu.edu.cn) in June 2014.
 
-Here is my  <a href="https://github.com/sichenAG/home/blob/d56de2868e8fc8f84c84658e01759d8d82988493/resume.pdf" target="_blank">CV</a>.
+Here is my  <a href="https://sichenag.github.io/home/resume.pdf" target="_blank">CV</a>.
 
 #### Address
 School of Mathmatics, East China University of Science and Technology, Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
@@ -38,8 +38,8 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 
 #### Preprints
 1. Zariski dense orbit conjecture on projective threefolds, in preparation.
-2. Kawaguchi-Silverman conjecture on projective threefolds, in preparation.
-3. Bounding cohomology on a smooth projective surface with  Picard number two revisited,[arXiv:2103.01161](https://arxiv.org/abs/2103.02180v3)
+2. Kawaguchi-Silverman conjecture on projective threefolds, submitted for publication,<a href="https://sichenag.github.io/home/resume.pdf" target="_blank">pdf</a>.
+3. Bounding cohomology on a smooth projective surface with  Picard number two revisited,submitted for publication, [arXiv:2103.01161](https://arxiv.org/abs/2103.02180v3)
 
 ### Activities
 #### Conferences 
@@ -90,4 +90,4 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 
 - [Researchgate](https://www.researchgate.net), [Researchgate Profile](https://www.researchgate.net/profile/Sichen-Li-3)
 
-Last updated: July 29,2022
+Last updated: August 1,2022

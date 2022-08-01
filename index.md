@@ -72,7 +72,7 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 - [Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html) (supervisior)
 -  [Fei Hu](https://sites.google.com/view/feihu90s/) (collaborator)
 -  [Yohsuke Matuszawa](https://univdb.rikkyo.ac.jp/view?l=en&u=100002311) (collarborator)
--  [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) (mentor at [NUS](https://www.math.nus.edu.sg))
+-  [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) (mentor at [National University of Sigapore](https://www.math.nus.edu.sg))
 
 #### Seminars
 - [Algebraic Geometry Seminar](https://ymsc.tsinghua.edu.cn/info/1053/1730.htm), Yau Mathematical Sciences Center,Tsinghua University

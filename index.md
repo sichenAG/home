@@ -38,7 +38,7 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 
 #### Preprints
 1. Zariski dense orbit conjecture on projective threefolds, submitted for publication. 
-2. Kawaguchi-Silverman conjecture on projective threefolds, submitted for publication,<a href="https://sichenag.github.io/home/KSC-29July22.pdf" target="_blank">pdf</a>.
+2. Kawaguchi-Silverman conjecture on projective threefolds, submitted for publication,<a href="https://sichenag.github.io/home/KSC-3Aug22.pdf" target="_blank">pdf</a>.
 4. Bounding cohomology on a smooth projective surface with  Picard number two revisited,submitted for publication, [arXiv:2103.01161](https://arxiv.org/abs/2103.02180v3)
 
 ### Activities

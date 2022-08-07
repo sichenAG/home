@@ -1,4 +1,8 @@
 # Sichen Li's Homepage
+#### Address
+School of Mathmatics, East China University of Science and Technology, Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
+
+Email: sichenli@ecust.edu.cn
 ### About me 
 
 My name is Sichen Li (李思辰 in Chinese). I am working at [School of Mathematics](https://math.ecust.edu.cn),[East China University of Science and Technology](https://ecust.edu.cn/) since July 2022.
@@ -12,19 +16,15 @@ Prior to that, I received my B.S. from [Hubei University](http://www.hubu.edu.cn
 
 Here is my  <a href="https://sichenag.github.io/home/resume.pdf" target="_blank">CV</a>.
 
-#### Address
-School of Mathmatics, East China University of Science and Technology, Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
-
-Email: sichenli@ecust.edu.cn
-
 #### Research Interest
 Birational geometry of algebraic varieties and explicit birational geometry inspired by dynamics
 
-
-### Teaching
-- Spring 2021, Adavanced Algebra II with [Qihong Xie](https://www.cnblogs.com/torsor/), School of Mathematical Science, Fudan University
-
 ### Publications
+#### Preprints
+1. Zariski dense orbit conjecture on birationa automorphisms of  projective threefolds, submitted for publication,[arXiv:2208.02616.](https://arxiv.org/abs/2208.02616)
+2. Kawaguchi-Silverman conjecture on birational automorphisms of projective threefolds, submitted for publication,<a href="https://sichenag.github.io/home/KSC-birational.pdf" target="_blank">pdf</a>.
+3. Bounding cohomology on a smooth projective surface with  Picard number two revisited,submitted for publication, [arXiv:2103.01161.](https://arxiv.org/abs/2103.02180v3)
+
 #### Accepted papers
 1. (with [Yohsuke Matuszawa](https://univdb.rikkyo.ac.jp/view?l=en&u=100002311)), A note on Kawaguchi-Silverman conjecture, Internat. J. Math. 32 (2021), no. 11, 2150085. ([journal](https://www.worldscientific.com/doi/abs/10.1142/S0129167X21500853),[arXiv](https://arxiv.org/abs/2003.01161v1))
 
@@ -36,38 +36,8 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 
 5. A note on a smooth projective surface with Picard number two, Math. Narch. 292(2019), no. 12, 2637-2642. ([journal](https://doi.org/10.1002/mana.201800448),[arXiv](https://arxiv.org/abs/1805.08362v5))
 
-#### Preprints
-1. Zariski dense orbit conjecture on birationa automorphisms of  projective threefolds, submitted for publication,[arXiv:2208.02616.](https://arxiv.org/abs/2208.02616)
-2. Kawaguchi-Silverman conjecture on birational automorphisms of projective threefolds, submitted for publication,<a href="https://sichenag.github.io/home/KSC-birational.pdf" target="_blank">pdf</a>.
-4. Bounding cohomology on a smooth projective surface with  Picard number two revisited,submitted for publication, [arXiv:2103.01161.](https://arxiv.org/abs/2103.02180v3)
-
-### Activities
-#### Conferences(since 2022)
-- July 18-22,2022,[3rd National Algebraic Geometry Conference(online)](https://scms.fudan.edu.cn/info/3399/4947.htm),School of Mathematical Sciences and Shanghai Center for Mathematical Sciences, Fudan Univerisity
-- June 11-12,2022,[China Southeastern Algebraic Geometry Symposium (II)(online)]
-(https://math.sysu.edu.cn/gagp/article/106),School of Mathematics, Sun Yat-sen Unviersity
-
-
-#### School Summers(since 2022)
-- August 8-19,2022,[2022 SCMS Algebraic Geometry Summer School(online)](https://scms.fudan.edu.cn/info/4352/5029.htm), Shanghai Center for Mathematical Sciences, Fudan University 
-
-#### Travel (since 2022)
-1.  June 23, 2022 - now, visiting [Jingjun Han](https://sites.google.com/site/jingjunhan/) and [Chen Jiang](https://chenjiangfudan.github.io/home/), Shanghai Center for Mathematical Sciences, Fudan University, Shanghai,China
-2.  February 18-25, 2022, visiting Yaxiong Chen, Sanya Technology Innovation Park, Wuhan University of Technology, Sanya, China
-
-#### Talks (since 2019)
-##### 2021
-1.  November 4-6, 2021, A survey on Kawaguchi-Silverman conjecture, Algebraic Geometry Forum, Soochow University, Suzhou, China 
-2. July 7, 2021, Bounding cohomology on a smooth projective surface, Hubei University, Wuhan, China
-
-##### 2019
-1. October 11,2019, Derived length of zero entropy groups acting on projective varieties in arbitrary characteristic--A remark to a paper of Dinh-Oguiso-Zhang, [Algebraic Geometry Seminar](https://math.ecnu.edu.cn/academia/ags/), East China Normal University, Shanghai,China 
-2.  July 1-5,2019, A note on a smooth projective surface with Picard number 2, The 2nd National Algebraic Geometry Conference, PhD talk, East China Normal University, Shanghai, China
-3.  June 28, 2019, A note on a smooth projective surface with Picard number 2, Hubei University, Wuhan, China
-4.  June 25, 2019, Algebraic varieties with automorphism groups of sub-maximal dynamical rank, [Algebraic Geometry Seminar](https://math.ecnu.edu.cn/academia/ags/), East China Normal University ,Shanghai, China
-5.  June 24, 2019, Free abelian group actions on normal projective varieties,Tianyuan talk, Soochow University, Suzhou, China
-6.  June 23, 2019, Free abelian group actions on normal projective varieties,Shanghai Normal Unverisity, Shanghai, China
-7.  April 17, 2019, A note on a smooth projective surface with Picard number 2, [Topology and Geometry Seminar](https://www.math.nus.edu.sg/category/events/colloquia-seminars/topology-geometry/), National University of Sigapore, Singapore 
+### Teaching
+- Spring 2021, Adavanced Algebra II with [Qihong Xie](https://www.cnblogs.com/torsor/), School of Mathematical Science, Fudan University
 
 ### Links 
 #### Mathematicians
@@ -78,7 +48,6 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 -  [De-Qi Zhang](https://blog.nus.edu.sg/matzdq/) (mentor at [National University of Sigapore](https://www.math.nus.edu.sg))
 
 #### Seminars
-- [Algebraic Geometry Seminar](https://ymsc.tsinghua.edu.cn/info/1053/1730.htm), Yau Mathematical Sciences Center,Tsinghua University
 - [Online Seminar in Algebraic Geometry](https://math.ecnu.edu.cn/~tzhang/Onlineseminar.html), School of Mathematical Sciences, East China Normal University 
 - [Weekly (online) seminar on Explicit Birational Geometry](https://chenjiangfudan.github.io/home/conferences/XBGS.html), School of Mathmatical Sciences and Shanghai Centers for Mathematical Sciences, Fudan Univeristy 
 
@@ -93,4 +62,4 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 
 - [Researchgate](https://www.researchgate.net), [Researchgate Profile](https://www.researchgate.net/profile/Sichen-Li-3)
 
-Last updated: August 5,2022
+Last updated: August 7,2022

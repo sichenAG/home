@@ -42,10 +42,13 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 4. Bounding cohomology on a smooth projective surface with  Picard number two revisited,submitted for publication, [arXiv:2103.01161.](https://arxiv.org/abs/2103.02180v3)
 
 ### Activities
-#### Conferences 
+#### Conferences(since 2022)
 - July 18-22,2022,[3rd National Algebraic Geometry Conference(online)](https://scms.fudan.edu.cn/info/3399/4947.htm),School of Mathematical Sciences and Shanghai Center for Mathematical Sciences, Fudan Univerisity
+- June 11-12,2022,[China Southeastern Algebraic Geometry Symposium (II)(online)]
+(https://math.sysu.edu.cn/gagp/article/106),School of Mathematics, Sun Yat-sen Unviersity
 
-#### School Summers
+
+#### School Summers(since 2022)
 - August 8-19,2022,[2022 SCMS Algebraic Geometry Summer School(online)](https://scms.fudan.edu.cn/info/4352/5029.htm), Shanghai Center for Mathematical Sciences, Fudan University 
 
 #### Travel (since 2022)

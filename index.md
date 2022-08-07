@@ -1,5 +1,4 @@
 # Sichen Li's Homepage
-#### Address
 School of Mathmatics, East China University of Science and Technology, Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
 
 Email: sichenli@ecust.edu.cn
@@ -14,7 +13,7 @@ And since July 2018 I was a CSC student at [Department of Mathematics](https://w
 
 Prior to that, I received my B.S. from [Hubei University](http://www.hubu.edu.cn) in June 2014.
 
-Here is my  <a href="https://sichenag.github.io/home/resume.pdf" target="_blank">CV</a>.
+Here is my  <a href="https://sichenag.github.io/home/cv.pdf" target="_blank">CV</a>.
 
 ### Research
 Birational geometry of algebraic varieties and explicit birational geometry inspired by dynamics

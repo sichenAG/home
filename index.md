@@ -1,7 +1,8 @@
 # Sichen Li's Homepage
-School of Mathmatics, East China University of Science and Technology, Xuhui Campus, 130 Meilong Road,Shanghai, 200237,China
+#### Contact Information
+School of Mathematics, East China University of Science and Technology,Xuhui Campus, 130 Meilong Road,Shanghai,200237,China
 
-Email: sichenli@ecust.edu.cn
+Email: sichenli@ecust.edu.cn,sichenag@163.com
 ### About me 
 
 My name is Sichen Li (李思辰 in Chinese). I am working at [School of Mathematics](https://math.ecust.edu.cn),[East China University of Science and Technology](https://ecust.edu.cn/) since July 2022.

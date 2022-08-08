@@ -14,16 +14,16 @@ And since July 2018 I was a CSC student at [Department of Mathematics](https://w
 
 Prior to that, I received my B.S. from [Hubei University](http://www.hubu.edu.cn) in June 2014.
 
-Here is my  <a href="https://sichenag.github.io/home/cv.pdf" target="_blank">CV</a>.
+Here is my  <a href="https://sichenag.github.io/home/resume.pdf" target="_blank">CV</a>.
 
 ### Research
 Birational geometry of algebraic varieties and explicit birational geometry inspired by dynamics
 #### Accepted papers
-1. (with [Yohsuke Matuszawa](https://univdb.rikkyo.ac.jp/view?l=en&u=100002311)), A note on Kawaguchi-Silverman conjecture, Internat. J. Math. 32 (2021), no. 11, 2150085. [journal](https://www.worldscientific.com/doi/abs/10.1142/S0129167X21500853),[arXiv](https://arxiv.org/abs/2003.01161v1).
-2. Bounding cohomology on a smoot projective surface with Picard number 2, Comm. Algebra. 49(2021), no. 7, 3140-3144. [journal](https://doi.org/10.1080/00927872.2021.1888962),[arXiv](https://arxiv.org/abs/2007.12855v2).
-3. (with [Hu Fei](https://sites.google.com/view/feihu90s/)), Free abelian groups actions on normal projective varieties: submaximal dynamical rank case, Canad. J. Math. 73(2021), no. 4, 1053-1073. [journal](https://doi.org/10.4153/S0008414X20000322),[arXiv](https://arxiv.org/abs/1907.00229v2).
-4. Derived length of zero entropy groups acting on projective varieties in arbitrary characteristic, A remark to a paper of Dinh-Oguiso-Zhang, Internat. J. Math. 31(2020), no. 8, 2050059. [journal](https://doi.org/10.1142/S0129167X20500597),[arXiv](https://arxiv.org/abs/1909.08201v2).
-5. A note on a smooth projective surface with Picard number two, Math. Narch. 292(2019), no. 12, 2637-2642. [journal](https://doi.org/10.1002/mana.201800448),[arXiv](https://arxiv.org/abs/1805.08362v5).
+1. Sichen Li and  [Yohsuke Matuszawa](https://univdb.rikkyo.ac.jp/view?l=en&u=100002311)), [A note on Kawaguchi-Silverman conjecture](https://www.worldscientific.com/doi/abs/10.1142/S0129167X21500853), Internat. J. Math. 32 (2021), no. 11, 2150085, 12 pp. [arXiv:2003.01161.](https://arxiv.org/abs/2003.01161v1).
+2. Sichen Li, [Bounding cohomology on a smoot projective surface with Picard number 2](https://doi.org/10.1080/00927872.2021.1888962), Comm. Algebra. 49(2021), no. 7, 3140-3144. [arXiv:2007.12855.](https://arxiv.org/abs/2007.12855v2).
+3.[Hu Fei](https://sites.google.com/view/feihu90s/) and Sichen Li, [Free abelian groups actions on normal projective varieties: submaximal dynamical rank case](https://doi.org/10.4153/S0008414X20000322), Canad. J. Math. 73(2021), no. 4, 1053-1073. [arXiv:1907.00229.](https://arxiv.org/abs/1907.00229v2).
+4. Sichen Li, [Derived length of zero entropy groups acting on projective varieties in arbitrary characteristic, A remark to a paper of Dinh-Oguiso-Zhang](https://doi.org/10.1142/S0129167X20500597), Internat. J. Math. 31(2020), no. 8, 2050059. [arXiv:1909.08201.](https://arxiv.org/abs/1909.08201v2).
+5. Sichen Li, [A note on a smooth projective surface with Picard number two](https://doi.org/10.1002/mana.201800448), Math. Narch. 292(2019), no. 12, 2637-2642. [arXiv:1805.08362.](https://arxiv.org/abs/1805.08362v5).
 
 #### Preprints
 1. Zariski dense orbit conjecture on birationa automorphisms of  projective threefolds, submitted for publication,[arXiv:2208.02616.](https://arxiv.org/abs/2208.02616)
@@ -48,7 +48,7 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 
 #### Useful Links
 
-- [arXiv](https://arxiv.org), [arXiv.math.AG-new](https://arxiv.org/list/math.AG/new),  [arXiv.math.AG-recent](https://arxiv.org/list/math.AG/recent)
+- [arXiv](https://arxiv.org), [arXiv.AG.new](https://arxiv.org/list/math.AG/new), [arXiv.NT.new](https://arxiv.org/list/math.NT/new)
 
 - [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS), [LetPub](http://www.letpub.com.cn/index.php?page=journalapp)
 

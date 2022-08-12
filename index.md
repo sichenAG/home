@@ -5,7 +5,7 @@ School of Mathematics, East China University of Science and Technology,Xuhui Cam
 Email: sichenli@ecust.edu.cn,sichenag@163.com
 ### About me 
 
-My name is Sichen Li (李思辰 in Chinese). I am working at [School of Mathematics](https://math.ecust.edu.cn),[East China University of Science and Technology](https://ecust.edu.cn/) since July 2022.
+My name is Sichen Li (李思辰 in Chinese). I am working at [School of Mathematics](https://math.ecust.edu.cn),[East China University of Science and Technology](https://ecust.edu.cn/) since August 2022.
  
 Before, I was a Postdoctoral Research Fellow at [School of Mathmatical Science](http://math.fudan.edu.cn/),[Fudan Univeristy](http://www.fudan.edu.cn/), under the supervision of [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) since May 2020.
 
@@ -50,10 +50,11 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 
 - [arXiv](https://arxiv.org), [arXiv.AG.new](https://arxiv.org/list/math.AG/new), [arXiv.NT.new](https://arxiv.org/list/math.NT/new)
 
-- [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS), [LetPub](http://www.letpub.com.cn/index.php?page=journalapp)
-
 - [MathScinet](https://mathscinet.ams.org/mathscinet),  [MathScinet Profile](https://mathscinet.ams.org/mathscinet/search/author.html?mrauthid=1360097)
 
 - [Researchgate](https://www.researchgate.net), [Researchgate Profile](https://www.researchgate.net/profile/Sichen-Li-3)
 
-Last updated: August 9,2022
+- [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS), [LetPub](http://www.letpub.com.cn/index.php?page=journalapp)
+
+
+Last updated: August 12,2022

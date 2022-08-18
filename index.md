@@ -57,4 +57,4 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 - [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS), [LetPub](http://www.letpub.com.cn/index.php?page=journalapp)
 
 
-Last updated: August 12,2022
+Last updated: August 18,2022

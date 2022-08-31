@@ -1,8 +1,8 @@
 # Sichen Li's Homepage
 #### Contact Information
-School of Mathematics, East China University of Science and Technology,Xuhui Campus, 130 Meilong Road,Shanghai,200237,China
+Room 702, Teaching Building 8,School of Mathematics, East China University of Science and Technology, Xuhui Campus, 130 Meilong Road,Shanghai,200237,China
 
-Email: sichenli@ecust.edu.cn,sichenag@163.com
+Email: sichenli@ecust.edu.cn, sichenag@163.com
 ### About me 
 
 My name is Sichen Li (李思辰 in Chinese). I am working at [School of Mathematics](https://math.ecust.edu.cn),[East China University of Science and Technology](https://ecust.edu.cn/) since August 2022.
@@ -57,4 +57,4 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 - [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS), [LetPub](http://www.letpub.com.cn/index.php?page=journalapp)
 
 
-Last updated: August 18,2022
+Last updated: August 31,2022

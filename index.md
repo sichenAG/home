@@ -2,7 +2,7 @@
 #### Contact Information
 Room 702, Teaching Building 8,School of Mathematics, East China University of Science and Technology, Xuhui Campus, 130 Meilong Road,Shanghai,200237,China
 
-Email: sichenli@ecust.edu.cn, sichenag@163.com
+Email: sichenli@ecust.edu.cn
 ### About me 
 
 My name is Sichen Li (李思辰 in Chinese). I am working at [School of Mathematics](https://math.ecust.edu.cn),[East China University of Science and Technology](https://ecust.edu.cn/) since August 2022.

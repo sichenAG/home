@@ -27,7 +27,7 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 5.  Sichen Li, [A note on a smooth projective surface with Picard number two](https://doi.org/10.1002/mana.201800448), Math. Narch. 292(2019), no. 12, 2637-2642. [arXiv:1805.08362.](https://arxiv.org/abs/1805.08362v5)
 
 #### Preprints
-1. Sichen Li, Zariski dense orbit conjecture on birationa automorphisms of  projective threefolds, submitted for publication,[arXiv:2208.02616.](https://arxiv.org/abs/2208.02616)
+1. Sichen Li, Zariski dense orbit conjecture on birational automorphisms of  projective threefolds, submitted for publication,[arXiv:2208.02616.](https://arxiv.org/abs/2208.02616)
 2. Sichen Li, Kawaguchi-Silverman conjecture on birational automorphisms of projective threefolds, submitted for publication,[arXiv:2209.06815.](https://arxiv.org/pdf/2209.06815)
 3. Sichen Li, Bounding cohomology on a smooth projective surface with  Picard number two revisited,submitted for publication, [arXiv:2103.01161.](https://arxiv.org/abs/2103.02180v3)
 

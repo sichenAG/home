@@ -27,12 +27,14 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 
 #### Preprints
 1. Sichen Li, Zariski dense orbit conjecture on birationa automorphisms of  projective threefolds, submitted for publication,[arXiv:2208.02616.](https://arxiv.org/abs/2208.02616)
-2. Sichen Li, Kawaguchi-Silverman conjecture on birational automorphisms of projective threefolds, submitted for publication,<a href="https://sichenag.github.io/home/KSC-birational.pdf" target="_blank">pdf</a>.
+2. Sichen Li, Kawaguchi-Silverman conjecture on birational automorphisms of projective threefolds, submitted for publication,[arXiv:2209.06815.](https://arxiv.org/pdf/2209.06815)
 3. Sichen Li, Bounding cohomology on a smooth projective surface with  Picard number two revisited,submitted for publication, [arXiv:2103.01161.](https://arxiv.org/abs/2103.02180v3)
 
 ### Teaching
 - Spring 2021, Adavanced Algebra II with [Qihong Xie](https://www.cnblogs.com/torsor/), School of Mathematical Science, Fudan University
 
+### Reading Seminars
+- Since September 2022, [Fourier-Mukai transforms in algebraic geometry](https://jiabindu.github.io/seminar_Fourier-Mukai.html), organized with [Jiabin Du](https://jiabindu.github.io)).
 ### Links 
 #### Mathematicians
 - [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) (mentor at [Fudan University](https://www.math.fudan.edu.cn))
@@ -45,7 +47,6 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 - [Online Seminar in Algebraic Geometry](https://math.ecnu.edu.cn/~tzhang/Onlineseminar.html), School of Mathematical Sciences, East China Normal University 
 - [Weekly (online) seminar on Explicit Birational Geometry](https://chenjiangfudan.github.io/home/conferences/XBGS.html), School of Mathmatical Sciences and Shanghai Centers for Mathematical Sciences, Fudan Univeristy 
 
-
 #### Useful Links
 
 - [arXiv](https://arxiv.org), [arXiv.AG.new](https://arxiv.org/list/math.AG/new), [arXiv.NT.new](https://arxiv.org/list/math.NT/new)
@@ -57,4 +58,4 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 - [Journal Citation Reports](https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS), [LetPub](http://www.letpub.com.cn/index.php?page=journalapp)
 
 
-Last updated: August 31,2022
+Last updated: September 15,2022

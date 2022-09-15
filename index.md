@@ -34,7 +34,7 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 - Spring 2021, Adavanced Algebra II with [Qihong Xie](https://www.cnblogs.com/torsor/), School of Mathematical Science, Fudan University
 
 ### Reading Seminars
-- Since September 2022, [Fourier-Mukai transforms in algebraic geometry](https://jiabindu.github.io/seminar_Fourier-Mukai.html), organized with [Jiabin Du](https://jiabindu.github.io)).
+- Fall 2022, [Fourier-Mukai transforms in algebraic geometry](https://jiabindu.github.io/seminar_Fourier-Mukai.html), organized with [Jiabin Du](https://jiabindu.github.io).
 ### Links 
 #### Mathematicians
 - [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) (mentor at [Fudan University](https://www.math.fudan.edu.cn))

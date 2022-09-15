@@ -18,6 +18,7 @@ Here is my  <a href="https://sichenag.github.io/home/resume.pdf" target="_blank"
 
 ### Research
 Birational geometry of algebraic varieties and explicit birational geometry inspired by dynamics
+
 #### Accepted papers
 1. Sichen Li and  [Yohsuke Matuszawa](https://univdb.rikkyo.ac.jp/view?l=en&u=100002311), [A note on Kawaguchi-Silverman conjecture](https://www.worldscientific.com/doi/abs/10.1142/S0129167X21500853), Internat. J. Math. 32 (2021), no. 11, 2150085, 12 pp. [arXiv:2003.01161.](https://arxiv.org/abs/2003.01161v1)
 2. Sichen Li, [Bounding cohomology on a smoot projective surface with Picard number 2](https://doi.org/10.1080/00927872.2021.1888962), Comm. Algebra. 49(2021), no. 7, 3140-3144. [arXiv:2007.12855.](https://arxiv.org/abs/2007.12855v2)
@@ -35,7 +36,9 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 
 ### Reading Seminars
 - Fall 2022, [Fourier-Mukai transforms in algebraic geometry](https://jiabindu.github.io/seminar_Fourier-Mukai.html), organized with [Jiabin Du](https://jiabindu.github.io).
-### Links 
+
+### Links
+
 #### Mathematicians
 - [Meng Chen](https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm) (mentor at [Fudan University](https://www.math.fudan.edu.cn))
 - [Rong Du](https://math.ecnu.edu.cn/~rdu/intro.html) (supervisior)

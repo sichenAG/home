@@ -31,6 +31,9 @@ Birational geometry of algebraic varieties and explicit birational geometry insp
 2. Sichen Li, Kawaguchi-Silverman conjecture on birational automorphisms of projective threefolds, submitted for publication,[arXiv:2209.06815.](https://arxiv.org/pdf/2209.06815)
 3. Sichen Li, Bounding cohomology on a smooth projective surface with  Picard number two revisited,submitted for publication, [arXiv:2103.01161.](https://arxiv.org/abs/2103.02180v3)
 
+#### Notes
+1. Sichen Li, Bounding cohomology on a smooth projective surface, [arXiv:1805.10741.](https://arxiv.org/abs/1805.10741v8)
+
 ### Teaching
 - Spring 2021, Adavanced Algebra II with [Qihong Xie](https://www.cnblogs.com/torsor/), School of Mathematical Science, Fudan University
 

@@ -1,2 +1,2 @@
 # home
-Homepage of Chen Jiang
+Homepage of Sichen Li

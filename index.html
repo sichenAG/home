@@ -10,48 +10,42 @@ body {
   font-family: Arial, Helvetica, sans-serif;
   line-height:1.65;
   background:#f3f3f3;
+  color:#222;
 }
-/* 顶部导航栏 */
-nav {
+
+/* 导航容器：大屏限制宽度，居中，防止导航散开 */
+.nav-wrap{
   position:absolute;
   width:100%;
-  padding:24px 32px;
+  z-index:10;
+  padding:22px 24px;
+}
+nav {
+  max-width:780px;
+  margin:0 auto;
   display:flex;
   justify-content:space-between;
   align-items:center;
   color:white;
 }
 .nav-name {
-  font-size:28px;
+  font-size:22px;
   font-weight:bold;
 }
 .nav-links a {
   color:white;
   text-decoration:none;
-  margin-left:28px;
-  font-size:18px;
+  margin-left:24px;
+  font-size:17px;
 }
 .nav-links a:hover {
   text-decoration:underline;
 }
-/* 移动端导航简单适配 */
-@media(max-width:768px){
-  nav{
-    flex-direction:column;
-    gap:12px;
-    padding:16px;
-  }
-  .nav-links a{
-    margin:0 10px;
-    font-size:16px;
-  }
-  .banner h2{font-size:32px;}
-  .banner h1{font-size:38px;}
-}
-/* Banner大图头部 + 暗色蒙版 */
+
+/* Banner头部 */
 .banner {
   width:100%;
-  height:600px;
+  height:420px;
   background:url("./banner.jpg");
   background-size:cover;
   background-position:center;
@@ -66,33 +60,36 @@ nav {
   content:"";
   position:absolute;
   inset:0;
-  background:rgba(0,0,0,0.45);
+  background:rgba(0,0,0,0.48);
+  z-index:1;
 }
 .banner > *{
   position:relative;
   z-index:2;
 }
+/* 缩小标题，学术主页不要超大字体 */
 .banner h2 {
-  font-size:56px;
+  font-size:28px;
   font-weight:normal;
-  margin-bottom:24px;
+  margin-bottom:12px;
 }
 .banner h1 {
-  font-size:64px;
+  font-size:38px;
   font-weight:normal;
 }
-/* 正文容器 */
+
+/* 正文容器：锁死最大宽度780px，居中，大屏两侧留白，不会过宽 */
 .container {
-  max-width:880px;
-  margin:3rem auto;
-  padding:0 2rem;
+  max-width:780px;
+  margin:2.5rem auto;
+  padding:0 1.2rem;
   background:#ffffff;
-  padding:40px;
+  padding:36px;
 }
 .container h2{
   color:#2266dd;
   margin-bottom:1rem;
-  font-size:32px;
+  font-size:24px;
 }
 a{
   color:#0044aa;
@@ -102,17 +99,40 @@ a:hover{
   text-decoration:underline;
 }
 ol li {
-  margin:0.8rem 0;
+  margin:0.7rem 0;
 }
 hr{
-  margin:2rem 0;
+  margin:1.8rem 0;
   border:0;
   border-top:1px solid #cccccc;
+}
+
+/* 手机适配 */
+@media(max-width:720px){
+  .nav-wrap{
+    padding:14px;
+  }
+  nav{
+    flex-direction:column;
+    gap:10px;
+  }
+  .nav-links a{
+    margin:0 8px;
+    font-size:15px;
+  }
+  .banner{height:320px;}
+  .banner h2{font-size:22px;}
+  .banner h1{font-size:28px;}
+  .container{
+    padding:22px;
+    margin:1.5rem auto;
+  }
 }
 </style>
 </head>
 <body>
-<!-- 顶部导航 -->
+
+<div class="nav-wrap">
 <nav>
   <div class="nav-name">Sichen LI</div>
   <div class="nav-links">
@@ -123,14 +143,13 @@ hr{
     <a href="#links">Links</a>
   </div>
 </nav>
+</div>
 
-<!-- 大图Banner -->
 <section class="banner">
   <h2>Welcome to the homepage of</h2>
   <h1>Sichen LI （李思辰）</h1>
 </section>
 
-<!-- 正文内容 -->
 <div class="container">
 <h2>About me</h2>
 
@@ -180,7 +199,7 @@ I am working on birational geometry and its dynamics, algebraic surface.</p>
 
 <hr>
 <p>Last update: 10 August 2026</p>
-</div>
 
+</div>
 </body>
 </html>

@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sichen LI | Homepage</title>
+<title>Home | Sichen Li</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
 body {
@@ -13,45 +13,18 @@ body {
   color:#222;
 }
 
-/* 导航行：全部横向排在一起，左是名字，后面依次各个链接 */
-.topnav{
-  position:absolute;
-  top:26px;
-  z-index:2;
-  white-space: nowrap;
-}
-.topnav .name-text{
-  color:white;
-  font-size:34px;
-  font-weight:bold;
-  display:inline-block;
-  margin-right:28px;
-}
-.topnav a{
-  color:white;
-  text-decoration:none;
-  font-size:22px;
-  margin:0 14px;
-}
-.topnav a:hover{
-  text-decoration:underline;
-}
-
-/* Banner */
-.banner {
+/* 顶部背景区域：导航在右上角，页面标题在左上 */
+.page-header {
   width:100%;
-  height:420px;
   background:url("./banner.jpg");
   background-size:cover;
   background-position:center;
   position:relative;
-  display:flex;
-  flex-direction:column;
-  justify-content:center;
-  align-items:center;
+  padding:24px 32px 48px 32px;
   color:white;
 }
-.banner::before{
+
+.page-header::before{
   content:"";
   position:absolute;
   inset:0;
@@ -59,77 +32,111 @@ body {
   z-index:1;
   pointer-events:none;
 }
-.banner > *{
+
+.page-header > *{
   position:relative;
   z-index:2;
 }
-.banner h2 {
-  font-size:36px;
-  font-weight:normal;
-  margin-bottom:16px;
-}
-.banner h1 {
-  font-size:62px;
-  font-weight:normal;
+
+/* 导航：右上角小字号，不单独占一行 */
+.topnav {
+  text-align:right;
+  margin-bottom:36px;
 }
 
-/* 正文容器：强制居中，不会贴左边 */
+.topnav a {
+  color:white;
+  text-decoration:none;
+  font-size:15px;
+  margin-left:18px;
+}
+
+.topnav a:hover {
+  text-decoration:underline;
+}
+
+/* 页面大标题：左上，字号克制 */
+.page-title {
+  font-size:32px;
+  font-weight:normal;
+  text-align:left;
+  margin:0;
+}
+
+/* 正文容器：和背景自然衔接，不突然变成大白块 */
 .container {
   max-width:780px;
-  margin:2.5rem auto;
+  margin:0 auto 2.5rem auto;
   padding:36px;
   background:#ffffff;
 }
+
 .container h2{
   color:#2266dd;
   margin-bottom:1rem;
   font-size:24px;
 }
+
+.container h3{
+  margin:1.2rem 0 0.6rem;
+  font-size:17px;
+}
+
 a{
   color:#0044aa;
   text-decoration:none;
 }
+
 a:hover{
   text-decoration:underline;
 }
-ol li {
+
+ol, ul {
+  padding-left:22px;
+  margin-bottom:1rem;
+}
+
+ol li, ul li {
   margin:0.7rem 0;
 }
+
 hr{
   margin:1.8rem 0;
   border:0;
   border-top:1px solid #cccccc;
 }
 
-/* 手机端适配 */
-@media(max-width:768px){
+/* 手机端 */
+@media(max-width:720px){
+  .page-header{
+    padding:18px 20px 30px 20px;
+  }
+
   .topnav{
-    position:relative;
-    text-align:center;
-    top:12px;
+    text-align:left;
+    margin-bottom:24px;
   }
-  .topnav .name-text{
-    display:block;
-    margin:8px 0;
-  }
+
   .topnav a{
-    font-size:16px;
-    margin:0 6px;
+    font-size:14px;
+    margin:0 10px 8px 0;
   }
-  .banner{height:340px;}
-  .banner h2{font-size:24px;}
-  .banner h1{font-size:36px;}
+
+  .page-title{
+    font-size:24px;
+  }
+
   .container{
-    padding:20px;
-    margin:1rem auto;
+    padding:22px;
+    margin:0 auto 1.5rem auto;
   }
 }
 </style>
 </head>
 <body>
-<section class="banner">
+
+<div class="page-header">
   <div class="topnav">
-    <span class="name-text">Sichen LI</span>
     <a href="index.html">Home</a>
     <a href="cv.html">cv</a>
     <a href="research.html">Research</a>
@@ -137,11 +144,15 @@ hr{
     <a href="teaching.html">Teaching</a>
     <a href="seminar.html">Seminar</a>
     <a href="links.html">Links</a>
+    <a href="visitors.html">Visitors</a>
     <a href="chinese.html">Chinese</a>
   </div>
 
-  <h2>Welcome to the homepage of</h2>
-  <h1>Sichen Li （李思辰）</h1>
+  <h1 class="page-title">Home</h1>
+</div>
+
+<div class="container">
+  <h2>Welcome to the homepage of Sichen Li(李思辰)</h2>
 </section>
 
 <div class="container">

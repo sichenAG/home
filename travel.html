@@ -1,17 +1,158 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Travel</title>
-<style type="text/css">
-body p {
-	font-family: Arial, Helvetica, sans-serif;
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title> Travel | Sichen Li</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height:1.65;
+  background:#f3f3f3;
+  color:#222;
 }
 
+/* 顶部背景区域：导航在右上角，页面标题在左上 */
+.page-header {
+  width:100%;
+  background:url("./banner.jpg");
+  background-size:cover;
+  background-position:center;
+  position:relative;
+  padding:24px 32px 48px 32px;
+  color:white;
+}
+
+.page-header::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:rgba(0,0,0,0.48);
+  z-index:1;
+  pointer-events:none;
+}
+
+.page-header > *{
+  position:relative;
+  z-index:2;
+}
+
+/* 导航：右上角小字号，不单独占一行 */
+.topnav {
+  text-align:right;
+  margin-bottom:36px;
+}
+
+.topnav a {
+  color:white;
+  text-decoration:none;
+  font-size:15px;
+  margin-left:18px;
+}
+
+.topnav a:hover {
+  text-decoration:underline;
+}
+
+/* 页面大标题：左上，字号克制 */
+.page-title {
+  font-size:32px;
+  font-weight:normal;
+  text-align:left;
+  margin:0;
+}
+
+/* 正文容器：和背景自然衔接，不突然变成大白块 */
+.container {
+  max-width:780px;
+  margin:0 auto 2.5rem auto;
+  padding:36px;
+  background:#ffffff;
+}
+
+.container h2{
+  color:#2266dd;
+  margin-bottom:1rem;
+  font-size:24px;
+}
+
+.container h3{
+  margin:1.2rem 0 0.6rem;
+  font-size:17px;
+}
+
+a{
+  color:#0044aa;
+  text-decoration:none;
+}
+
+a:hover{
+  text-decoration:underline;
+}
+
+ol, ul {
+  padding-left:22px;
+  margin-bottom:1rem;
+}
+
+ol li, ul li {
+  margin:0.7rem 0;
+}
+
+hr{
+  margin:1.8rem 0;
+  border:0;
+  border-top:1px solid #cccccc;
+}
+
+/* 手机端 */
+@media(max-width:720px){
+  .page-header{
+    padding:18px 20px 30px 20px;
+  }
+
+  .topnav{
+    text-align:left;
+    margin-bottom:24px;
+  }
+
+  .topnav a{
+    font-size:14px;
+    margin:0 10px 8px 0;
+  }
+
+  .page-title{
+    font-size:24px;
+  }
+
+  .container{
+    padding:22px;
+    margin:0 auto 1.5rem auto;
+  }
+}
 </style>
 </head>
-
 <body>
+
+<div class="page-header">
+  <div class="topnav">
+    <a href="index.html">Home</a>
+    <a href="cv.html">cv</a>
+    <a href="research.html">Research</a>
+    <a href="talks.html">Talks</a>
+    <a href="teaching.html">Teaching</a>
+    <a href="seminar.html">Seminar</a>
+	<a href="visitors.html">Visitors</a>
+    <a href="links.html">Links</a>
+    <a href="chinese.html">Chinese</a>
+  </div>
+
+  <h1 class="page-title"> Travel </h1>
+</div>
+
+<div class="container">
+	
 <p><strong>Travel </strong></p>
 <p><strong> 2026 </strong></p>
 <ol>

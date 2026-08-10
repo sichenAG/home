@@ -24,14 +24,19 @@ body {
   max-width:900px;
   margin:0 auto;
   display:flex;
-  justify-content:space-between;
+  justify-content:flex-start;
   align-items:center;
+  gap:32px;
 }
 
 .brand-name{
-  font-size:32px;
+  font-size:22px;
   color:#222;
   font-weight:normal;
+}
+.brand-name a{
+  color:#222;
+  text-decoration:none;
 }
 
 .top-nav{
@@ -41,7 +46,7 @@ body {
 .top-nav a{
   color:#222;
   text-decoration:none;
-  font-size:24px;
+  font-size:22px;
 }
 .top-nav a:hover{
   text-decoration:underline;
@@ -98,11 +103,13 @@ ul li {
   }
   .header-wrap{
     flex-direction:column;
+    align-items:flex-start;
     gap:12px;
   }
-  .brand-name{font-size:26px;}
+  .brand-name{font-size:20px;}
   .top-nav{
     gap:12px;
+    flex-wrap:wrap;
   }
   .top-nav a{
     font-size:18px;
@@ -116,7 +123,7 @@ ul li {
 
 <div class="top-header">
   <div class="header-wrap">
-    <div class="brand-name">Sichen Li</div>
+    <div class="brand-name"><a href="index.html">Homepage</a></div>
     <div class="top-nav">
       <a href="index.html">Home</a>
       <a href="research.html">Research</a>
@@ -137,7 +144,7 @@ ul li {
 <h3> About me </h3>
 <ul>
 <li> I am a Lecturer at <a href="https://math.ecust.edu.cn/">School of Mathematics</a>, East China University of Science and Technology since August 2022.</li>
-<li> I was a Postdoctoral Research Fellow at School of Matematical Sciences, Fudan Univerisity from May 2020 to June 2022 (Mentor: Prof. <a href="https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm"> Meng Chen</a>). </li>
+<li> I was a Postdoctoral Research Fellow at School of Mathematical Sciences, Fudan University from May 2020 to June 2022 (Mentor: Prof. <a href="https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm"> Meng Chen</a>). </li>
 <li> I received my Ph.D. from <a href="https://english.ecnu.edu.cn">  East China Normal University </a> under the supervision of Prof. <a href="https://math.ecnu.edu.cn/~rdu/intro.html">  Du Rong </a> in June 2020.
 And I was a CSC visiting student at <a href="https://www.math.nus.edu.s">Department of Mathematics, National University of Singapore </a> from July 2018 to February 2020 (Advisor: Prof. <a href="https://blog.nus.edu.sg/matzdq/"> De‑Qi Zhang</a>).
 Prior to that, I got my B.Sc. from <a href="https://eng.hubu.edu.cn"> Hubei University </a>  in June 2014.</li>

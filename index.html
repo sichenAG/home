@@ -9,18 +9,17 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   line-height:1.65;
-  background:#ffffff;  /* 页面整体改为纯白，不再有侧边灰 */
+  background:#ffffff;
   color:#222;
 }
 
-/* ========== 和research.html完全一致的头部 ========== */
 .page-header {
   width:100%;
   background:url("./banner.jpg");
   background-size:cover;
   background-position:center;
   position:relative;
-  padding:16px 0 32px 0;
+  padding:12px 0 22px 0; /* ← 压缩蓝色高度：上12，下22，左右0 */
   color:white;
 }
 
@@ -41,10 +40,9 @@ body {
   z-index:2;
 }
 
-/* 导航：右上角小链接，全站统一 */
 .topnav {
   text-align:right;
-  margin-bottom:36px;
+  margin-bottom:20px; /* ← 导航到标题之间距离缩小，进一步压矮头部 */
 }
 
 .topnav a {
@@ -58,7 +56,6 @@ body {
   text-decoration:underline;
 }
 
-/* 首页标题：居中；research页面标题是左对齐 */
 .page-title-home {
   font-size:42px;
   font-weight:normal;
@@ -66,12 +63,11 @@ body {
   margin:0;
 }
 
-/* 正文容器：透明背景，去掉白色盒子，消除色差边界 */
 .container {
   max-width:900px;
   margin:0 auto 2.5rem auto;
   padding:36px;
-  background:transparent; /* 关键：取消容器白底，和body融为一体 */
+  background:transparent;
 }
 
 .container h2{
@@ -110,10 +106,9 @@ hr{
   border-top:1px solid #cccccc;
 }
 
-/* 手机适配，和research完全一致 */
 @media(max-width:720px){
   .page-header{
-    padding:12px 0 22px 0;
+    padding:10px 0 18px 0;
   }
   .header-inner{
     padding:0 20px;
@@ -121,7 +116,7 @@ hr{
 
   .topnav{
     text-align:left;
-    margin-bottom:24px;
+    margin-bottom:16px;
   }
 
   .topnav a{

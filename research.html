@@ -3,7 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sichen LI | Talks</title>
+<title>Sichen LI | Seminar</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
 body {
@@ -13,21 +13,27 @@ body {
   color:#222;
 }
 
-.nav-links a {
+.topnav{
+  position:absolute;
+  top:26px;
+  z-index:2;
+  white-space: nowrap;
+}
+.topnav .name-text{
+  color:white;
+  font-size:34px;
+  font-weight:bold;
+  display:inline-block;
+  margin-right:28px;
+}
+.topnav a{
   color:white;
   text-decoration:none;
-  margin-left:24px;
-  font-size:17px;
-  cursor:pointer;
-}
-.nav-links a:hover {
-  text-decoration:underline;
-}
-
-.nav-name {
   font-size:22px;
-  font-weight:bold;
-  color:white;
+  margin:0 14px;
+}
+.topnav a:hover{
+  text-decoration:underline;
 }
 
 /* Banner */
@@ -56,23 +62,11 @@ body {
   position:relative;
   z-index:2;
 }
-
-nav {
-  position:absolute;
-  top:22px;
-  left:24px;
-  right:24px;
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-}
-
 .banner h1 {
-  font-size:38px;
+  font-size:62px;
   font-weight:normal;
 }
 
-/* 正文 */
 .container {
   max-width:780px;
   margin:2.5rem auto;
@@ -100,43 +94,47 @@ hr{
   border-top:1px solid #cccccc;
 }
 
-/* 手机端 */
-@media(max-width:720px){
-  nav{
-    flex-direction:column;
-    gap:10px;
+@media(max-width:768px){
+  .topnav{
+    position:relative;
+    text-align:center;
+    top:12px;
   }
-  .nav-links a{
-    margin:0 8px;
-    font-size:15px;
+  .topnav .name-text{
+    display:block;
+    margin:8px 0;
   }
-  .banner{height:320px;}
-  .banner h1{font-size:28px;}
+  .topnav a{
+    font-size:16px;
+    margin:0 6px;
+  }
+  .banner{height:340px;}
+  .banner h1{font-size:36px;}
   .container{
-    padding:22px;
-    margin:1.5rem auto;
+    padding:20px;
+    margin:1rem auto;
   }
 }
 </style>
 </head>
 <body>
-
 <section class="banner">
-<nav>
-  <div class="nav-name">Sichen LI</div>
-  <div class="nav-links">
+  <div class="topnav">
+    <span class="name-text">Sichen LI</span>
     <a href="index.html">Home</a>
-    <a href="cv.html"> cv </a>
+    <a href="cv.html">cv</a>
     <a href="research.html">Research</a>
     <a href="talks.html">Talks</a>
     <a href="teaching.html">Teaching</a>
-    <a href="seminar.html"> Seminar </a>
+    <a href="seminar.html">Seminar</a>
     <a href="links.html">Links</a>
-     <a href="chinese.html">Chinese</a>
+    <a href="chinese.html">Chinese</a>
   </div>
-</nav>
   <h1>Research</h1>
 </section>
+
+<div class="container">
+
 
 <hr>
 <h2 id="research">Publications & Preprints</h2>

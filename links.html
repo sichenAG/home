@@ -3,17 +3,17 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title> CV | Sichen Li</title>
+<title> Sichen Li - Links </title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
 body {
   font-family: Arial, Helvetica, sans-serif;
   line-height:1.65;
-  background:#f3f3f3;
+  background:#ffffff;  /* 页面整体改为纯白，不再有侧边灰 */
   color:#222;
 }
 
-/* 顶部背景区域：导航在右上角，页面标题在左上 */
+/* ========== 和research.html完全一致的头部 ========== */
 .page-header {
   width:100%;
   background:url("./banner.jpg");
@@ -28,7 +28,7 @@ body {
   content:"";
   position:absolute;
   inset:0;
-  background:rgba(0,0,0,0.48);
+  background:rgb(40, 150, 220);
   z-index:1;
   pointer-events:none;
 }
@@ -38,7 +38,7 @@ body {
   z-index:2;
 }
 
-/* 导航：右上角小字号，不单独占一行 */
+/* 导航：右上角小链接，全站统一 */
 .topnav {
   text-align:right;
   margin-bottom:36px;
@@ -55,31 +55,32 @@ body {
   text-decoration:underline;
 }
 
-/* 页面大标题：左上，字号克制 */
-.page-title {
-  font-size:32px;
+/* 首页标题：居中；research页面标题是左对齐 */
+.page-title-home {
+  font-size:42px;
   font-weight:normal;
-  text-align:left;
+  text-align:center;
   margin:0;
 }
 
-/* 正文容器：和背景自然衔接，不突然变成大白块 */
+/* 正文容器：透明背景，去掉白色盒子，消除色差边界 */
 .container {
-  max-width:780px;
+  max-width:900px;
   margin:0 auto 2.5rem auto;
   padding:36px;
-  background:#ffffff;
+  background:transparent; /* 关键：取消容器白底，和body融为一体 */
 }
 
 .container h2{
-  color:#2266dd;
-  margin-bottom:1rem;
+  margin:1.2rem 0 0.6rem;
   font-size:24px;
+  color:#2266dd;
 }
 
-.container h3{
-  margin:1.2rem 0 0.6rem;
-  font-size:17px;
+.container h1{
+  font-size:28px;
+  color:#2266dd;
+  margin-bottom:24px;
 }
 
 a{
@@ -91,13 +92,13 @@ a:hover{
   text-decoration:underline;
 }
 
-ol, ul {
+ul {
   padding-left:22px;
   margin-bottom:1rem;
 }
 
-ol li, ul li {
-  margin:0.7rem 0;
+ul li {
+  margin:0.5rem 0;
 }
 
 hr{
@@ -106,7 +107,7 @@ hr{
   border-top:1px solid #cccccc;
 }
 
-/* 手机端 */
+/* 手机适配，和research完全一致 */
 @media(max-width:720px){
   .page-header{
     padding:18px 20px 30px 20px;
@@ -122,8 +123,8 @@ hr{
     margin:0 10px 8px 0;
   }
 
-  .page-title{
-    font-size:24px;
+  .page-title-home{
+    font-size:30px;
   }
 
   .container{
@@ -140,22 +141,21 @@ hr{
     <a href="index.html">Home</a>
     <a href="cv.html">CV</a>
     <a href="research.html">Research</a>
+    <a href="travel.html">Travel</a>
     <a href="talks.html">Talks</a>
     <a href="teaching.html">Teaching</a>
     <a href="seminar.html">Seminar</a>
     <a href="links.html">Links</a>
+    <a href="visitors.html">Visitors</a>
     <a href="chinese.html">Chinese</a>
   </div>
 
-  <h1 class="page-title"> CV</h1>
+  <h1 class="page-title">Links</h1>
 </div>
 
 <div class="container">
+</section>
 
-<p><strong>Useful links</strong> </p>
- <p><a href="https://arxiv.org/" target="_blank">arXiv</a> <a href="https://arxiv.org/list/math.AG/new" target="_blank">arXiv-math.AG-new</a> <a href="https://arxiv.org/list/math.NT/new" target="_blank">arXiv-math.NT/new</a><br />
-<a href="https://mathscinet.ams.org/mathscinet/" target="_blank">MathSciNet</a> <a href="https://zbmath.org/" target="_blank">zbMATH</a>
-<a href="https://jcr.clarivate.com/jcr/home?app=jcr&Init=Yes&authCode=null&SrcApp=IC2LS" target="_blank">Journal Citation Reports</a> <a href="http://www.letpub.com.cn/index.php?page=journalapp" target="_blank">LetPub</a></p>
 
 <p><strong>Mathematicians (by chronological order)</strong></p>
 <p>

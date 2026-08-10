@@ -3,17 +3,17 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title> Talks | Sichen Li</title>
+<title> Sichen Li - Talks </title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
 body {
   font-family: Arial, Helvetica, sans-serif;
   line-height:1.65;
-  background:#f3f3f3;
+  background:#ffffff;  /* 页面整体改为纯白，不再有侧边灰 */
   color:#222;
 }
 
-/* 顶部背景区域：导航在右上角，页面标题在左上 */
+/* ========== 和research.html完全一致的头部 ========== */
 .page-header {
   width:100%;
   background:url("./banner.jpg");
@@ -28,7 +28,7 @@ body {
   content:"";
   position:absolute;
   inset:0;
-  background:rgba(0,0,0,0.48);
+  background:rgb(40, 150, 220);
   z-index:1;
   pointer-events:none;
 }
@@ -38,7 +38,7 @@ body {
   z-index:2;
 }
 
-/* 导航：右上角小字号，不单独占一行 */
+/* 导航：右上角小链接，全站统一 */
 .topnav {
   text-align:right;
   margin-bottom:36px;
@@ -55,31 +55,32 @@ body {
   text-decoration:underline;
 }
 
-/* 页面大标题：左上，字号克制 */
-.page-title {
-  font-size:32px;
+/* 首页标题：居中；research页面标题是左对齐 */
+.page-title-home {
+  font-size:42px;
   font-weight:normal;
-  text-align:left;
+  text-align:center;
   margin:0;
 }
 
-/* 正文容器：和背景自然衔接，不突然变成大白块 */
+/* 正文容器：透明背景，去掉白色盒子，消除色差边界 */
 .container {
-  max-width:780px;
+  max-width:900px;
   margin:0 auto 2.5rem auto;
   padding:36px;
-  background:#ffffff;
+  background:transparent; /* 关键：取消容器白底，和body融为一体 */
 }
 
 .container h2{
-  color:#2266dd;
-  margin-bottom:1rem;
+  margin:1.2rem 0 0.6rem;
   font-size:24px;
+  color:#2266dd;
 }
 
-.container h3{
-  margin:1.2rem 0 0.6rem;
-  font-size:17px;
+.container h1{
+  font-size:28px;
+  color:#2266dd;
+  margin-bottom:24px;
 }
 
 a{
@@ -91,13 +92,13 @@ a:hover{
   text-decoration:underline;
 }
 
-ol, ul {
+ul {
   padding-left:22px;
   margin-bottom:1rem;
 }
 
-ol li, ul li {
-  margin:0.7rem 0;
+ul li {
+  margin:0.5rem 0;
 }
 
 hr{
@@ -106,7 +107,7 @@ hr{
   border-top:1px solid #cccccc;
 }
 
-/* 手机端 */
+/* 手机适配，和research完全一致 */
 @media(max-width:720px){
   .page-header{
     padding:18px 20px 30px 20px;
@@ -122,8 +123,8 @@ hr{
     margin:0 10px 8px 0;
   }
 
-  .page-title{
-    font-size:24px;
+  .page-title-home{
+    font-size:30px;
   }
 
   .container{
@@ -138,36 +139,38 @@ hr{
 <div class="page-header">
   <div class="topnav">
     <a href="index.html">Home</a>
-    <a href="cv.html"> CV</a>
+    <a href="cv.html">CV</a>
     <a href="research.html">Research</a>
+    <a href="travel.html">Travel</a>
     <a href="talks.html">Talks</a>
     <a href="teaching.html">Teaching</a>
     <a href="seminar.html">Seminar</a>
     <a href="links.html">Links</a>
+    <a href="visitors.html">Visitors</a>
     <a href="chinese.html">Chinese</a>
   </div>
 
-  <h1 class="page-title"> Talks</h1>
+  <h1 class="page-title">Talks</h1>
 </div>
 
 <div class="container">
+</section>
 
-<p><strong>Talks </strong></p>
-<p><strong> 2025 </strong></p>
-<ol>	
+<h3>  2025 </h3>
+<ul>	
 <li> 18 Apr. 2025, The boundedness problem of algebraic surfaces, Shanghai Institute for Mathematics and Interdisciplinary Sciences, Shanghai, China </li>
 <li> 28 Mar. 2025, Automorphisms on projective fibered varieties,School of Mathematical Sciences, East China Normal University,Shanghai, China </li>
-</ol>
+</ul>
 
-<p><strong> 2024 </strong></p>
-<ol>	
+<h3>  2024 </h3>
+<ul>	
 <li> 22 Apr. 2024, Automorphisms of projective varieties and dynamics, School of Mathematical Sciences, University of Science and Technology of China, Hefei, China </li>
 <li> 29 Mar. 2024, Birational automorphisms of projective fibred threefolds and dynamics, Shanghai Center for Mathematical Sciences, Fudan University, Shanghai, China </li>	
 <li> 18 Mar. 2024, Integral Zariski decomposition on smooth projective surfaces, School of Sciences, Wuhan University of Sciences and Technology, Wuhan, China </li>
 <li> 18 Mar. 2024, Introduction to the equivariant minimal model program, Faculty of Mathematics and Statistics, Hubei University, Wuhan, China </li>		
-</ol>
-<p><strong> 2023 </strong></p>	
-<ol>
+</ul>
+<h3>  2023 </h3>
+<ul>	
 <li> 7 Dec. 2023, Dynamics in automorphisms of projective varieties, School of Mathematical Sciences, Tongji University, Shanghai, China </li>
 <li> 20 Nov. 2023, A snapshot survey of dynamics of automorphisms of projective varieties, School of Mathematics, Tianjin University, Tianjin, China</li>
 <li> 16 Nov. 2023, A snapshot survey of dynamics of automorphisms of projective varieties, School of Mathematics, Shandong University, Jinan, China </li>
@@ -180,19 +183,19 @@ hr{
 <li>  17 May 2023, A survey on Kawaguchi-Silverman conjecture, Deparments of Mathematics, Donghua University, Shanghai, China </li>
 <li>  31 Mar. 2023, A snapshot survey of dynamics of projective varieties, Center of Mathematical Sciences, Zhejiang University, Hanzhou, China </li> 
 <li>  16 Mar. 2023, Density of orbits and arithmetic degrees on automorphisms of projective threefolds, Academy of Mathematics and Systems Science,CAS, Beijing, China </li>
-</ol>
-<p><strong> 2022 </strong></p>
-<ol>
+</ul>
+<h3>  2022 </h3>
+<ul>	
 <li> 17-18 Dec. 2022, Kawaguchi-Silverman conjecture on automorphisms of projective threefolds, Shanghai Algebraic Geometry Conference 2022, East China Normal University, Shanghai, China </li>
 <li> 26-27 Nov. 2022, Kawaguchi-Silverman conjecture on birational automorphisms of projective threefolds, China Southeastern Algebraic Geometry Symposium III (online), Xiamen University, Xiamen, China </li>
-</ol>
-<p><strong> 2021 </strong></p>
-<ol>
+</ul>
+<h3>  2021 </h3>
+<ul>	
 <li> 4-6 Nov. 2021, A survey on Kawaguchi-Silverman conjecture, Algebraic Geometry Forum, Soochow University, Suzhou, China. </li>
 <li>  7 Jul. 2021, Bounding cohomology on a smooth projective surface, Hubei University, Wuhan, China. </li>
-</ol>
-<p><strong> 2019 </strong></p>
-<ol>
+</ul>
+<h3>  2019</h3>
+<ul>	
 <li>  11 Oct. 2019, Derived length of zero entropy groups acting on projective varieties in arbitrary characteristic -- A remark to a paper of Dinh-Oguiso-Zhang, Algebraic Geometry Seminar, East China Normal University, Shanghai,China  </li> 
 <li> 1-5 Jul. 2019, A note on a smooth projective surface with Picard number 2, The 2nd National Algebraic Geometry Conference, PhD talk, East China Normal University, Shanghai, China  </li> 
 <li>  28 Jun. 2019, A note on a smooth projective surface with Picard number 2, Hubei University, Wuhan, China </li>
@@ -200,7 +203,7 @@ hr{
 <li>  24 Jun. 2019, Free abelian group actions on normal projective varieties, Tianyuan talk, Soochow University, Suzhou, China  </li>
 <li> 23 Jun. 2019, Free abelian group actions on normal projective varieties, Shanghai Normal Unverisity, Shanghai, China  </li> 
 <li> 17 Apr. 2019, A note on a smooth projective surface with Picard number 2, Topology and Geometry Seminar, National University of Sigapore, Singapore </li>
-</ol>
+</ul>
 
 </body>
 </html>

@@ -9,11 +9,10 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   line-height:1.65;
-  background:#ffffff;  /* 页面整体改为纯白，不再有侧边灰 */
+  background:#ffffff;
   color:#222;
 }
 
-/* ========== 和research.html完全一致的头部 ========== */
 .page-header {
   width:100%;
   background:url("./banner.jpg");
@@ -38,7 +37,6 @@ body {
   z-index:2;
 }
 
-/* 导航：右上角小链接，全站统一 */
 .topnav {
   text-align:right;
   margin-bottom:36px;
@@ -55,7 +53,6 @@ body {
   text-decoration:underline;
 }
 
-/* 首页标题：居中；research页面标题是左对齐 */
 .page-title-home {
   font-size:42px;
   font-weight:normal;
@@ -63,12 +60,11 @@ body {
   margin:0;
 }
 
-/* 正文容器：透明背景，去掉白色盒子，消除色差边界 */
 .container {
   max-width:900px;
   margin:0 auto 2.5rem auto;
   padding:36px;
-  background:transparent; /* 关键：取消容器白底，和body融为一体 */
+  background:transparent;
 }
 
 .container h2{
@@ -81,6 +77,10 @@ body {
   font-size:28px;
   color:#2266dd;
   margin-bottom:24px;
+}
+
+.container h3{
+  margin:1.4rem 0 0.6rem;
 }
 
 a{
@@ -107,26 +107,31 @@ hr{
   border-top:1px solid #cccccc;
 }
 
-/* 手机适配，和research完全一致 */
+/* ====== teaching‑item，课程之间空一行 ====== */
+.teaching‑item {
+  margin‑bottom: 2.2em;
+}
+.teaching‑item p {
+  margin‑top: 0.3em;
+  margin‑bottom: 0.3em;
+  line‑height: 1.55;
+}
+
 @media(max-width:720px){
   .page-header{
     padding:18px 20px 30px 20px;
   }
-
   .topnav{
     text-align:left;
     margin-bottom:24px;
   }
-
   .topnav a{
     font-size:14px;
     margin:0 10px 8px 0;
   }
-
   .page-title-home{
     font-size:30px;
   }
-
   .container{
     padding:22px;
     margin:0 auto 1.5rem auto;
@@ -154,142 +159,134 @@ hr{
 </div>
 
 <div class="container">
-</section>
-	
+
 <h3> 2026 Fall </h3>
 <div class="teaching‑item">
-<p>Course: <strong> Topology </strong><br />
-Time: Mon.,9-11 (Semester Weeks 1-16th) <br />
-Location: C408, Fengxian Campus <br /> 
-References: 
-<ul>
-<li> 雷逢春、杨志青、李凤玲，基础拓扑学及应用 </li>
-<li> John M. Lee, Introduction to Topological Manifolds, Second Edition </li>
-<li> Klaus Janich, Topology </li>
-</ul>
-</p>
+  <p>Course: <strong> Topology </strong></p>
+  <p>Time: Mon.,9‑11 (Semester Weeks 1‑16th)</p>
+  <p>Location: C408, Fengxian Campus</p>
+  <p>References:</p>
+  <ul>
+    <li> 雷逢春、杨志青、李凤玲，基础拓扑学及应用 </li>
+    <li> John M. Lee, Introduction to Topological Manifolds, Second Edition </li>
+    <li> Klaus Janich, Topology </li>
+  </ul>
 </div>
 
 <div class="teaching‑item">
-<p>Course: <strong> Modern Geometry </strong><br />
-Time:  Mon.,3-4 (Semester Weeks 2-17th) <br />
-Location: B209, Fengxian Campus <br /> 
-Reference: 
-<ul>
-<li> 梅加强，流形与几何初步，第二版 </li>	
-<li> Loring W. Tu, An Introduction to Manifolds，Third Edition  </li>
-<li> John M. Lee, Introduction to Smooth Manifolds, Second Edition </li>
-</ul>
-</p>
+  <p>Course: <strong> Modern Geometry </strong></p>
+  <p>Time:  Mon.,3‑4 (Semester Weeks 2‑17th)</p>
+  <p>Location: B209, Fengxian Campus</p>
+  <p>Reference:</p>
+  <ul>
+    <li> 梅加强，流形与几何初步，第二版 </li>
+    <li> Loring W. Tu, An Introduction to Manifolds，Third Edition  </li>
+    <li> John M. Lee, Introduction to Smooth Manifolds, Second Edition </li>
+  </ul>
 </div>
 
 <h3> 2026 Spring </h3>
 <div class="teaching‑item">
-<p>Course: <strong> Algebraic Geometry  </strong><br />
-Time: Tur., 9-11 (Semester Weeks 1-16th) <br />
-Location: C208, Fengxian Campus <br /> 
-References: 
-<ul>
-<li> 谈胜利, 代数几何 </li>
-<li> William Fulton, Algebraic Curves </li>
-<li> Rick Miranda, Algebraic Curves and Riemann Surfaces </li>
-</ul>
-</p>
+  <p>Course: <strong> Algebraic Geometry  </strong></p>
+  <p>Time: Tur., 9‑11 (Semester Weeks 1‑16th)</p>
+  <p>Location: C208, Fengxian Campus</p>
+  <p>References:</p>
+  <ul>
+    <li> 谈胜利, 代数几何 </li>
+    <li> William Fulton, Algebraic Curves </li>
+    <li> Rick Miranda, Algebraic Curves and Riemann Surfaces </li>
+  </ul>
 </div>
 
 <div class="teaching‑item">
-<p> Course: <strong> (Double) Linear Algebra  </strong><br />
-Time: Tur., 3-4 & 7-8 (Semester Weeks 1-16th) <br />
-Location: A401, Fengxian Campus <br /> 
-</p>
-<ur>
-<p><strong> 2025 Fall </strong></p>
-<p>Course: <strong> Topology </strong><br />
-Time: Mon., 9-11 (Semester Weeks 1-16th) <br />
-Location: C204, Fengxian Campus <br /> 
-References: 
-<ul>
-<li> 雷逢春、杨志青、李凤玲，基础拓扑学及应用 </li>
-<li> John M. Lee, Introduction to Topological Manifolds, Second Edition </li>
-<li> James R. Munkres,Topology,Second Edition </li>
-</ul>
-</p>
-</div>
-	
-<h3> 2025 Springer </h3> 
-<div class="teaching‑item">
-<p>Course: <strong> (Double) Linear Algebra  </strong><br />
-Time: Mon., 3-4 & 7-8 (Semester Weeks 1-16th) <br />
-Location: A405, Fengxian Campus <br /> 
-</div>
-</p>
-<p>Course: <strong> Modern Geometry </strong><br />
-Time:  Tue., 2-4 (Semester Weeks 5-16th) <br />
-Location: D407, Fengxian Campus <br /> 
-Reference: 
-<ul>
-<li> John M. Lee, Introduction to Smooth Manifolds, Second Edition </li>
-<li> 古志鸣，几何与拓扑的概念导引 </li>
-<li> Staya Deo, Algebraic Topology, A Primer</li>
-</ul>
-</p>
+  <p> Course: <strong> (Double) Linear Algebra  </strong></p>
+  <p>Time: Tur., 3‑4 & 7‑8 (Semester Weeks 1‑16th)</p>
+  <p>Location: A401, Fengxian Campus</p>
 </div>
 
-<h3>2024 Fall </h3> 
+<h3> 2025 Fall </h3>
 <div class="teaching‑item">
-<p>Course: <strong> Topology </strong><br />
-Time: Tue.,9-11 (Semester Weeks 1-16th) <br />
-Location: D308, Fengxian Campus <br /> 
-References: 
-<ul>
-<li> 包志强, 点集拓扑与代数拓扑引论</li>
-<li> John M. Lee, Introduction to Topological Manifolds, Second Edition</li>
-</ul>
-</p>
+  <p>Course: <strong> Topology </strong></p>
+  <p>Time: Mon., 9‑11 (Semester Weeks 1‑16th)</p>
+  <p>Location: C204, Fengxian Campus</p>
+  <p>References:</p>
+  <ul>
+    <li> 雷逢春、杨志青、李凤玲，基础拓扑学及应用 </li>
+    <li> John M. Lee, Introduction to Topological Manifolds, Second Edition </li>
+    <li> James R. Munkres,Topology,Second Edition </li>
+  </ul>
 </div>
 
-<h3> 2024 Springer </h3>
+<h3> 2025 Spring </h3>
 <div class="teaching‑item">
-<p>Course: <strong> Modern Geometry </strong><br />
-Time: Wed., 5-6 (Semester Weeks 1-17th) <br />
-Location: Grad. 306, Xuhui Campus <br /> 
-References: 
-<ul>
-<li> John M. Lee, Introduction to Topological Manifolds, Second Edition </li>
-<li> Donu Arapura, Algebraic Geometry over the Complex Numbers </li>
-<li> Joseph H. Silverman, The Arithmetic for Dynamical Systems </li>
-</ul>
-</p>
+  <p>Course: <strong> (Double) Linear Algebra  </strong></p>
+  <p>Time: Mon., 3‑4 & 7‑8 (Semester Weeks 1‑16th)</p>
+  <p>Location: A405, Fengxian Campus</p>
 </div>
 
 <div class="teaching‑item">
-<p>Course: <strong> Linear Algebra </strong><br />
-Time: Tur., 1-2 (Semester Weeks 1-17th) <br />
-Location: A401, Fengxian Campus <br /> 
-</p>
+  <p>Course: <strong> Modern Geometry </strong></p>
+  <p>Time:  Tue., 2‑4 (Semester Weeks 5‑16th)</p>
+  <p>Location: D407, Fengxian Campus</p>
+  <p>Reference:</p>
+  <ul>
+    <li> John M. Lee, Introduction to Smooth Manifolds, Second Edition </li>
+    <li> 古志鸣，几何与拓扑的概念导引 </li>
+    <li> Staya Deo, Algebraic Topology, A Primer</li>
+  </ul>
+</div>
+
+<h3>2024 Fall </h3>
+<div class="teaching‑item">
+  <p>Course: <strong> Topology </strong></p>
+  <p>Time: Tue.,9‑11 (Semester Weeks 1‑16th)</p>
+  <p>Location: D308, Fengxian Campus</p>
+  <p>References:</p>
+  <ul>
+    <li> 包志强, 点集拓扑与代数拓扑引论</li>
+    <li> John M. Lee, Introduction to Topological Manifolds, Second Edition</li>
+  </ul>
+</div>
+
+<h3> 2024 Spring </h3>
+<div class="teaching‑item">
+  <p>Course: <strong> Modern Geometry </strong></p>
+  <p>Time: Wed., 5‑6 (Semester Weeks 1‑17th)</p>
+  <p>Location: Grad. 306, Xuhui Campus</p>
+  <p>References:</p>
+  <ul>
+    <li> John M. Lee, Introduction to Topological Manifolds, Second Edition </li>
+    <li> Donu Arapura, Algebraic Geometry over the Complex Numbers </li>
+    <li> Joseph H. Silverman, The Arithmetic for Dynamical Systems </li>
+  </ul>
 </div>
 
 <div class="teaching‑item">
-<p>Course: <strong> Advanced Mathematics I </strong><br />
-Time:  Wed. & Thu., 9-10 (Semester Weeks 10-17th) <br />
-Location: A103, Fengxian Campus <br /> 
-</p>
+  <p>Course: <strong> Linear Algebra </strong></p>
+  <p>Time: Tur., 1‑2 (Semester Weeks 1‑17th)</p>
+  <p>Location: A401, Fengxian Campus</p>
 </div>
 
 <div class="teaching‑item">
+  <p>Course: <strong> Advanced Mathematics I </strong></p>
+  <p>Time:  Wed. & Thu., 9‑10 (Semester Weeks 10‑17th)</p>
+  <p>Location: A103, Fengxian Campus</p>
+</div>
+
 <h3> 2023 Fall </h3>
-<p>Course: <strong>Adavanced Mathematics II</strong><br />
-Time: Wed.,9-11 (Semester Weeks 3-10th) <br />
-Location: A206, Fengxian Campus <br /> 
-</p>
+<div class="teaching‑item">
+  <p>Course: <strong>Advanced Mathematics II</strong></p>
+  <p>Time: Wed.,9‑11 (Semester Weeks 3‑10th)</p>
+  <p>Location: A206, Fengxian Campus</p>
 </div>
-	
-<p><strong> 2023 Spring </strong></p>	
-<p>Course: <strong> Advanced Mathematics I</strong><br />
-Time: Mon. & Tue., 9-11 (Semester Weeks 3-7,9th) <br />
-Location: A101, Fengxian Campus <br /> 
-</p>	
 
-	
+<h3> 2023 Spring </h3>
+<div class="teaching‑item">
+  <p>Course: <strong> Advanced Mathematics I</strong></p>
+  <p>Time: Mon. & Tue., 9‑11 (Semester Weeks 3‑7,9th)</p>
+  <p>Location: A101, Fengxian Campus</p>
+</div>
+
+</div>
 </body>
 </html>

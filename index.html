@@ -13,80 +13,55 @@ body {
   color:#222;
 }
 
-.page-header {
+/* 顶部导航：全部内容居中 */
+.top-header{
   width:100%;
-  background:url("./banner.jpg");
-  background-size:cover;
-  background-position:center;
-  position:relative;
-  padding:12px 0 22px 0;
-  color:white;
+  background:#ffffff;
+  padding:16px 20px;
+  text-align:center;
+  border-bottom:1px solid #eee;
 }
 
-.page-header::before{
-  content:"";
-  position:absolute;
-  inset:0;
-  background:rgb(40, 150, 220);
-  z-index:1;
-  pointer-events:none;
+.top-header .brand{
+  font-size:32px;
+  color:#222;
+  font-weight:normal;
+  margin-bottom:12px;
 }
 
-.header-inner{
-  max-width:900px;
-  margin:0 auto;
-  padding:0 32px;
-  position:relative;
-  z-index:2;
-}
-
-.topnav {
-  text-align:right;
-  margin-bottom:20px;
-}
-
-.topnav a {
-  color:white;
+.top-nav a{
+  color:#222;
   text-decoration:none;
-  font-size:15px;
-  margin-left:18px;
+  font-size:22px;
+  margin:0 12px;
 }
-
-.topnav a:hover {
+.top-nav a:hover{
   text-decoration:underline;
 }
 
-.page-title-home {
-  font-size:42px;
-  font-weight:normal;
+/* 名字标题区域，居中 */
+.name-banner{
+  padding:40px 20px;
   text-align:center;
-  margin:0;
+}
+.name-banner h1{
+  font-size:64px;
+  color:#185b8c;
+  font-weight:normal;
 }
 
+/* 正文容器，900px，和之前一致 */
 .container {
   max-width:900px;
   margin:0 auto 2.5rem auto;
-  padding:36px;
+  padding:0 36px;
   background:transparent;
-}
-
-.container h2{
-  margin:1.2rem 0 0.6rem;
-  font-size:24px;
-  color:#2266dd;
-}
-
-.container h1{
-  font-size:28px;
-  color:#2266dd;
-  margin-bottom:24px;
 }
 
 a{
   color:#0044aa;
   text-decoration:none;
 }
-
 a:hover{
   text-decoration:underline;
 }
@@ -95,63 +70,41 @@ ul {
   padding-left:22px;
   margin-bottom:1rem;
 }
-
 ul li {
   margin:0.5rem 0;
 }
 
-hr{
-  margin:1.8rem 0;
-  border:0;
-  border-top:1px solid #cccccc;
-}
-
 @media(max-width:720px){
-  .page-header{
-    padding:10px 0 18px 0;
+  .top-header{
+    padding:12px;
   }
-  .header-inner{
-    padding:0 20px;
+  .brand{font-size:26px;}
+  .top-nav a{
+    font-size:18px;
+    margin:0 8px;
   }
-
-  .topnav{
-    text-align:left;
-    margin-bottom:16px;
-  }
-
-  .topnav a{
-    font-size:14px;
-    margin:0 10px 8px 0;
-  }
-
-  .page-title-home{
-    font-size:30px;
-  }
-
-  .container{
-    padding:22px;
-    margin:0 auto 1.5rem auto;
-  }
+  .name-banner h1{font-size:42px;}
+  .container{padding:0 22px;}
 }
 </style>
 </head>
 <body>
 
-<div class="page-header">
-  <div class="header-inner">
-    <div class="topnav">
-      <a href="index.html">Home</a>
-      <a href="research.html">Research</a>
-      <a href="travel.html">Travel</a>
-      <a href="talks.html">Talks</a>
-      <a href="teaching.html">Teaching</a>
-      <a href="seminar.html">Seminar</a>
-      <a href="links.html">Links</a>
-      <a href="visitors.html">Visitors</a>
-      <a href="chinese.html">Chinese</a>
-    </div>
-    <h1 class="page-title-home">Home</h1>
+<div class="top-header">
+  <div class="brand">Homepage</div>
+  <div class="top-nav">
+    <a href="index.html">Home</a>
+    <a href="research.html">Research</a>
+    <a href="teaching.html">Teaching</a>
+    <a href="seminar.html">Seminar</a>
+    <a href="links.html">Links</a>
+    <a href="visitors.html">Visitors</a>
+    <a href="chinese.html">Chinese</a>
   </div>
+</div>
+
+<div class="name-banner">
+  <h1>Sichen Li</h1>
 </div>
 
 <div class="container">
@@ -160,7 +113,7 @@ hr{
 <li> I am a Lecturer at <a href="https://math.ecust.edu.cn/">School of Mathematics</a>, East China University of Science and Technology since August 2022.</li>
 <li> I was a Postdoctoral Research Fellow at School of Matematical Sciences, Fudan Univerisity from May 2020 to June 2022 (Mentor: Prof. <a href="https://faculty.fudan.edu.cn/chenmeng/zh_CN/index/107651/list/index.htm"> Meng Chen</a>). </li>
 <li> I received my Ph.D. from <a href="https://english.ecnu.edu.cn">  East China Normal University </a> under the supervision of Prof. <a href="https://math.ecnu.edu.cn/~rdu/intro.html">  Du Rong </a> in June 2020.
-And I was a CSC visiting student at <a href="https://www.math.nus.edu.s">Department of Mathematics, National University of Singapore </a> from July 2018 to February 2020 (Advisor: Prof. <a href="https://blog.nus.edu.sg/matzdq/"> De-Qi Zhang</a>).
+And I was a CSC visiting student at <a href="https://www.math.nus.edu.s">Department of Mathematics, National University of Singapore </a> from July 2018 to February 2020 (Advisor: Prof. <a href="https://blog.nus.edu.sg/matzdq/"> De‑Qi Zhang</a>).
 Prior to that, I got my B.Sc. from <a href="https://eng.hubu.edu.cn"> Hubei University </a>  in June 2014.</li>
 <li> Research interest: I am working on birational geometry and its interaction with dynamics, algebraic surfaces.</li>
 <li> Address: Room 702, Teaching Building 8, 130 Meilong Road, Shanghai, 200237, China.</li>

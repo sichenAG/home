@@ -13,12 +13,10 @@ body {
   color:#222;
 }
 
-/* 顶部导航：全部内容居中 */
 .top-header{
   width:100%;
   background:#ffffff;
-  padding:16px 20px;
-  text-align:center;
+  padding:16px 32px;
   border-bottom:1px solid #eee;
 }
 
@@ -26,20 +24,23 @@ body {
   font-size:32px;
   color:#222;
   font-weight:normal;
-  margin-bottom:12px;
+  text-align:center;
+  margin-bottom:14px;
 }
 
+.top-nav{
+  text-align:right;
+}
 .top-nav a{
   color:#222;
   text-decoration:none;
-  font-size:22px;
-  margin:0 12px;
+  font-size:24px;
+  margin-left:26px;
 }
 .top-nav a:hover{
   text-decoration:underline;
 }
 
-/* 名字标题区域，居中 */
 .name-banner{
   padding:40px 20px;
   text-align:center;
@@ -50,7 +51,6 @@ body {
   font-weight:normal;
 }
 
-/* 正文容器，900px，和之前一致 */
 .container {
   max-width:900px;
   margin:0 auto 2.5rem auto;
@@ -76,9 +76,10 @@ ul li {
 
 @media(max-width:720px){
   .top-header{
-    padding:12px;
+    padding:12px 16px;
   }
-  .brand{font-size:26px;}
+  .brand{font-size:26px;margin-bottom:10px;}
+  .top-nav{text-align:center;}
   .top-nav a{
     font-size:18px;
     margin:0 8px;

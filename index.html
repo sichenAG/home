@@ -1,3 +1,4 @@
+预览
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -13,11 +14,13 @@ body {
   color:#222;
 }
 
-/* 导航容器：大屏限制宽度，居中，防止导航散开 */
+/* 导航：z-index拉高到100，确保可点击 */
 .nav-wrap{
   position:absolute;
   width:100%;
-  z-index:10;
+  top:0;
+  left:0;
+  z-index:100;
   padding:22px 24px;
 }
 nav {
@@ -37,12 +40,13 @@ nav {
   text-decoration:none;
   margin-left:24px;
   font-size:17px;
+  cursor:pointer;
 }
 .nav-links a:hover {
   text-decoration:underline;
 }
 
-/* Banner头部 */
+/* Banner */
 .banner {
   width:100%;
   height:420px;
@@ -67,7 +71,6 @@ nav {
   position:relative;
   z-index:2;
 }
-/* 缩小标题，学术主页不要超大字体 */
 .banner h2 {
   font-size:28px;
   font-weight:normal;
@@ -78,13 +81,12 @@ nav {
   font-weight:normal;
 }
 
-/* 正文容器：锁死最大宽度780px，居中，大屏两侧留白，不会过宽 */
+/* 正文 */
 .container {
   max-width:780px;
   margin:2.5rem auto;
-  padding:0 1.2rem;
-  background:#ffffff;
   padding:36px;
+  background:#ffffff;
 }
 .container h2{
   color:#2266dd;
@@ -107,7 +109,7 @@ hr{
   border-top:1px solid #cccccc;
 }
 
-/* 手机适配 */
+/* 手机端 */
 @media(max-width:720px){
   .nav-wrap{
     padding:14px;
@@ -136,19 +138,20 @@ hr{
 <nav>
   <div class="nav-name">Sichen LI</div>
   <div class="nav-links">
-    <a href="#">Home</a>
+    <a href="index.html">Home</a>
     <a href="#research">Research</a>
-    <a href="#talks">Talks</a>
-    <a href="#teaching">Teaching</a>
-    <a href="#links">Links</a>
+    <a href="talks.html">Talks</a>
+    <a href="teaching.html">Teaching</a>
+    <a href="links.html">Links</a>
   </div>
 </nav>
 </div>
 
 <section class="banner">
   <h2>Welcome to the homepage of</h2>
-  <h1>Sichen LI （李思辰）</h1>
+  <h1>Sichen Li （李思辰）</h1>
 </section>
+
 
 <div class="container">
 <h2>About me</h2>

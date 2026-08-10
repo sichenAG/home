@@ -20,34 +20,39 @@ body {
   border-bottom:1px solid #eee;
 }
 
-.top-header .brand{
+.header-wrap{
+  max-width:900px;
+  margin:0 auto;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
+.brand-name{
   font-size:32px;
   color:#222;
   font-weight:normal;
-  text-align:center;
-  margin-bottom:14px;
 }
 
 .top-nav{
-  text-align:right;
+  display:flex;
+  gap:26px;
 }
 .top-nav a{
   color:#222;
   text-decoration:none;
   font-size:24px;
-  margin-left:26px;
 }
 .top-nav a:hover{
   text-decoration:underline;
 }
 
-.name-banner{
-  padding:40px 20px;
-  text-align:center;
-}
-.name-banner h1{
-  font-size:64px;
-  color:#185b8c;
+.page-title{
+  max-width:900px;
+  margin:2rem auto 1rem auto;
+  padding:0 36px;
+  font-size:40px;
+  color:#222;
   font-weight:normal;
 }
 
@@ -66,6 +71,10 @@ a:hover{
   text-decoration:underline;
 }
 
+h3{
+  margin:24px 0 10px 0;
+}
+
 ul {
   padding-left:22px;
   margin-bottom:1rem;
@@ -74,17 +83,37 @@ ul li {
   margin:0.5rem 0;
 }
 
+/*论文悬挂缩进核心样式*/
+.paper-list{
+  padding-left:24px;
+  margin:12px 0 26px 0;
+}
+.paper-list li{
+  margin-bottom:12px;
+  padding-left:22px;
+  text-indent:-22px;
+  line-height:1.62;
+}
+
 @media(max-width:720px){
   .top-header{
     padding:12px 16px;
   }
-  .brand{font-size:26px;margin-bottom:10px;}
-  .top-nav{text-align:center;}
+  .header-wrap{
+    flex-direction:column;
+    gap:12px;
+  }
+  .brand-name{font-size:26px;}
+  .top-nav{
+    gap:12px;
+  }
   .top-nav a{
     font-size:18px;
-    margin:0 8px;
   }
-  .name-banner h1{font-size:42px;}
+  .page-title{
+    font-size:30px;
+    padding:0 22px;
+  }
   .container{padding:0 22px;}
 }
 </style>
@@ -92,26 +121,26 @@ ul li {
 <body>
 
 <div class="top-header">
-  <div class="brand">Homepage</div>
-  <div class="top-nav">
-    <a href="index.html">Home</a>
-    <a href="research.html">Research</a>
-    <a href="teaching.html">Teaching</a>
-    <a href="seminar.html">Seminar</a>
-    <a href="links.html">Links</a>
-    <a href="visitors.html">Visitors</a>
-    <a href="chinese.html">Chinese</a>
+  <div class="header-wrap">
+    <div class="brand-name">Sichen Li</div>
+    <div class="top-nav">
+      <a href="index.html">Home</a>
+      <a href="research.html">Research</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="seminar.html">Seminar</a>
+      <a href="links.html">Links</a>
+      <a href="visitors.html">Visitors</a>
+      <a href="chinese.html">Chinese</a>
+    </div>
   </div>
 </div>
 
-
-  <h1 class="page-title">Research</h1>
-</div>
+<h1 class="page-title">Research</h1>
 
 <div class="container">
 
 <h3>Publication (including accepted papers): </h3>
-<ol>
+<ol class="paper-list">
 <li> Sichen Li, Integral Zariski decompositions on smooth projective surfaces, <em>J. Algebra Appl.</em> 25 (2026), no. 11, 2650116, 7 pp. [<a href="https://www.worldscientific.com/doi/pdf/10.1142/S0219498826501161?download=true" target="_blank"> Journal</a>][<a href="https://arxiv.org/pdf/2306.11292">arXiv</a>]</li>
 <li> Sichen Li, Kawaguchi‑Silverman conjecture on automorphisms of projective threefolds (Dedicated to Professor De‑Qi Zhang on his sixtieth birthday), <em>Internat. J. Math.</em> 35 (2024), no. 3, 2450002, 16 pp.  [<a href="https://www.worldscientific.com/doi/10.1142/S0129167X24500022" target="_blank">Journal</a>][<a href="https://arxiv.org/pdf/2209.06815">arXiv</a>]</li>
 <li> Sichen Li, Bounded cohomology property on a smooth projective surface with Picard number two (Dedicated to Professor Sheng‑Li Tan on his sixtieth birthday), <em>Comm. Algebra</em> 51(2023), no. 12, 5235‑5241. [<a href="https://doi.org/10.1080/00927872.2023.2227707" target="_blank">Journal</a>][<a href="https://arxiv.org/pdf/2103.02180">arXiv</a>]</li>
@@ -124,7 +153,7 @@ ul li {
 
 
 <h3> Preprints: </h3>
-<ol>
+<ol class="paper-list">
 <li> Antonio Laface, Sichen Li and Jihao Liu, Mori dream Jacobian elliptic surfaces of Kodaira dimension one, 2026.</li>
 <li> Sichen Li, Integral Zariski decompositions on smooth projective surfaces II, submitted, arXiv:2605.28019v2. [<a href="https://arxiv.org/abs/2605.28019">arXiv</a>]</li>
 <li> Sichen Li and Jihao Liu, Examples of infinitely many (-1)-curves with higher genus on elliptic surfaces, submitted, arXiv:2605.27926. [<a href="https://arxiv.org/pdf/2605.27926">arXiv</a>]</li>
@@ -135,7 +164,7 @@ ul li {
 </ol>
 
 <h3> Others: </h3>
-<ol>
+<ol class="paper-list">
 <li> Sichen Li, Bounding cohomology on a smooth projective surface, arXiv: 1805.10741. [<a href="https://arxiv.org/abs/1805.10741">arXiv</a>]</li>
 </ol>
 </div>

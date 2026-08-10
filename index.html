@@ -13,27 +13,6 @@ body {
   color:#222;
 }
 
-/* 导航：z-index拉高到100，确保可点击 */
-.nav-wrap{
-  position:absolute;
-  width:100%;
-  top:0;
-  left:0;
-  z-index:100;
-  padding:22px 24px;
-}
-nav {
-  max-width:780px;
-  margin:0 auto;
-  display:flex;
-  justify-content:space-between;
-  align-items:center;
-  color:white;
-}
-.nav-name {
-  font-size:22px;
-  font-weight:bold;
-}
 .nav-links a {
   color:white;
   text-decoration:none;
@@ -43,6 +22,12 @@ nav {
 }
 .nav-links a:hover {
   text-decoration:underline;
+}
+
+.nav-name {
+  font-size:22px;
+  font-weight:bold;
+  color:white;
 }
 
 /* Banner */
@@ -71,6 +56,18 @@ nav {
   position:relative;
   z-index:2;
 }
+
+/* 导航放在banner内部 */
+nav {
+  position:absolute;
+  top:22px;
+  left:24px;
+  right:24px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
 .banner h2 {
   font-size:28px;
   font-weight:normal;
@@ -111,9 +108,6 @@ hr{
 
 /* 手机端 */
 @media(max-width:720px){
-  .nav-wrap{
-    padding:14px;
-  }
   nav{
     flex-direction:column;
     gap:10px;
@@ -134,23 +128,21 @@ hr{
 </head>
 <body>
 
-<div class="nav-wrap">
+<section class="banner">
 <nav>
   <div class="nav-name">Sichen LI</div>
   <div class="nav-links">
     <a href="index.html">Home</a>
     <a href="chinese.html">Chinese</a>
     <a href="cv.html"> cv </a>
-    <a href="research">Research</a>
+    <a href="research.html">Research</a>
     <a href="talks.html">Talks</a>
     <a href="teaching.html">Teaching</a>
     <a href="seminar.html"> Seminar </a>
     <a href="links.html">Links</a>
   </div>
 </nav>
-</div>
 
-<section class="banner">
   <h2>Welcome to the homepage of</h2>
   <h1>Sichen Li （李思辰）</h1>
 </section>

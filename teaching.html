@@ -107,14 +107,15 @@ hr{
   border-top:1px solid #cccccc;
 }
 
-/* ====== teaching‑item，课程之间空一行 ====== */
-.teaching‑item {
-  margin‑bottom: 2.2em;
+/* 课程内部行间距 */
+.teaching-item p {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  line-height: 1.55;
 }
-.teaching‑item p {
-  margin‑top: 0.3em;
-  margin‑bottom: 0.3em;
-  line‑height: 1.55;
+/* 同一个学期内，后一个课程块上方空出间距 */
+.teaching-item + .teaching-item {
+  margin-top: 2.2em;
 }
 
 @media(max-width:720px){
@@ -161,7 +162,7 @@ hr{
 <div class="container">
 
 <h3> 2026 Fall </h3>
-<div class="teaching‑item">
+<div class="teaching-item">
   <p>Course: <strong> Topology </strong></p>
   <p>Time: Mon.,9‑11 (Semester Weeks 1‑16th)</p>
   <p>Location: C408, Fengxian Campus</p>
@@ -173,7 +174,7 @@ hr{
   </ul>
 </div>
 
-<div class="teaching‑item">
+<div class="teaching-item">
   <p>Course: <strong> Modern Geometry </strong></p>
   <p>Time:  Mon.,3‑4 (Semester Weeks 2‑17th)</p>
   <p>Location: B209, Fengxian Campus</p>
@@ -184,8 +185,9 @@ hr{
   </ul>
 </div>
 
+<hr>
 <h3> 2026 Spring </h3>
-<div class="teaching‑item">
+<div class="teaching-item">
   <p>Course: <strong> Algebraic Geometry  </strong></p>
   <p>Time: Tur., 9‑11 (Semester Weeks 1‑16th)</p>
   <p>Location: C208, Fengxian Campus</p>
@@ -197,14 +199,15 @@ hr{
   </ul>
 </div>
 
-<div class="teaching‑item">
+<div class="teaching-item">
   <p> Course: <strong> (Double) Linear Algebra  </strong></p>
   <p>Time: Tur., 3‑4 & 7‑8 (Semester Weeks 1‑16th)</p>
   <p>Location: A401, Fengxian Campus</p>
 </div>
 
+<hr>
 <h3> 2025 Fall </h3>
-<div class="teaching‑item">
+<div class="teaching-item">
   <p>Course: <strong> Topology </strong></p>
   <p>Time: Mon., 9‑11 (Semester Weeks 1‑16th)</p>
   <p>Location: C204, Fengxian Campus</p>
@@ -216,14 +219,15 @@ hr{
   </ul>
 </div>
 
+<hr>
 <h3> 2025 Spring </h3>
-<div class="teaching‑item">
+<div class="teaching-item">
   <p>Course: <strong> (Double) Linear Algebra  </strong></p>
   <p>Time: Mon., 3‑4 & 7‑8 (Semester Weeks 1‑16th)</p>
   <p>Location: A405, Fengxian Campus</p>
 </div>
 
-<div class="teaching‑item">
+<div class="teaching-item">
   <p>Course: <strong> Modern Geometry </strong></p>
   <p>Time:  Tue., 2‑4 (Semester Weeks 5‑16th)</p>
   <p>Location: D407, Fengxian Campus</p>
@@ -235,8 +239,9 @@ hr{
   </ul>
 </div>
 
+<hr>
 <h3>2024 Fall </h3>
-<div class="teaching‑item">
+<div class="teaching-item">
   <p>Course: <strong> Topology </strong></p>
   <p>Time: Tue.,9‑11 (Semester Weeks 1‑16th)</p>
   <p>Location: D308, Fengxian Campus</p>
@@ -247,8 +252,9 @@ hr{
   </ul>
 </div>
 
+<hr>
 <h3> 2024 Spring </h3>
-<div class="teaching‑item">
+<div class="teaching-item">
   <p>Course: <strong> Modern Geometry </strong></p>
   <p>Time: Wed., 5‑6 (Semester Weeks 1‑17th)</p>
   <p>Location: Grad. 306, Xuhui Campus</p>
@@ -260,27 +266,29 @@ hr{
   </ul>
 </div>
 
-<div class="teaching‑item">
+<div class="teaching-item">
   <p>Course: <strong> Linear Algebra </strong></p>
   <p>Time: Tur., 1‑2 (Semester Weeks 1‑17th)</p>
   <p>Location: A401, Fengxian Campus</p>
 </div>
 
-<div class="teaching‑item">
+<div class="teaching-item">
   <p>Course: <strong> Advanced Mathematics I </strong></p>
   <p>Time:  Wed. & Thu., 9‑10 (Semester Weeks 10‑17th)</p>
   <p>Location: A103, Fengxian Campus</p>
 </div>
 
+<hr>
 <h3> 2023 Fall </h3>
-<div class="teaching‑item">
+<div class="teaching-item">
   <p>Course: <strong>Advanced Mathematics II</strong></p>
   <p>Time: Wed.,9‑11 (Semester Weeks 3‑10th)</p>
   <p>Location: A206, Fengxian Campus</p>
 </div>
 
+<hr>
 <h3> 2023 Spring </h3>
-<div class="teaching‑item">
+<div class="teaching-item">
   <p>Course: <strong> Advanced Mathematics I</strong></p>
   <p>Time: Mon. & Tue., 9‑11 (Semester Weeks 3‑7,9th)</p>
   <p>Location: A101, Fengxian Campus</p>

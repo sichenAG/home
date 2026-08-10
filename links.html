@@ -3,142 +3,140 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title> Sichen Li - Links </title>
+<title>  Research </title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
 body {
   font-family: Arial, Helvetica, sans-serif;
   line-height:1.65;
-  background:#ffffff;  /* 页面整体改为纯白，不再有侧边灰 */
+  background:#ffffff;
   color:#222;
 }
 
-/* ========== 和research.html完全一致的头部 ========== */
-.page-header {
+.top-header{
   width:100%;
-  background:url("./banner.jpg");
-  background-size:cover;
-  background-position:center;
-  position:relative;
-  padding:24px 32px 48px 32px;
-  color:white;
+  background:#ffffff;
+  padding:16px 32px;
+  border-bottom:1px solid #eee;
 }
 
-.page-header::before{
-  content:"";
-  position:absolute;
-  inset:0;
-  background:rgb(40, 150, 220);
-  z-index:1;
-  pointer-events:none;
+.header-wrap{
+  max-width:900px;
+  margin:0 auto;
+  display:flex;
+  justify-content:flex-start;
+  align-items:center;
+  gap:32px;
 }
 
-.page-header > *{
-  position:relative;
-  z-index:2;
+.brand-name{
+  font-size:22px;
+  color:#222;
+  font-weight:normal;
 }
-
-/* 导航：右上角小链接，全站统一 */
-.topnav {
-  text-align:right;
-  margin-bottom:36px;
-}
-
-.topnav a {
-  color:white;
+.brand-name a{
+  color:#222;
   text-decoration:none;
-  font-size:15px;
-  margin-left:18px;
+  white-space: nowrap;
 }
 
-.topnav a:hover {
+.top-nav{
+  display:flex;
+  gap:26px;
+}
+.top-nav a{
+  color:#222;
+  text-decoration:none;
+  font-size:22px;
+}
+.top-nav a:hover{
   text-decoration:underline;
 }
 
-/* 首页标题：居中；research页面标题是左对齐 */
-.page-title-home {
-  font-size:42px;
+.page-title{
+  max-width:900px;
+  margin:2rem auto 1rem auto;
+  padding:0 36px;
+  font-size:48px;
+  color:#185b8c;
   font-weight:normal;
   text-align:center;
-  margin:0;
 }
 
-/* 正文容器：透明背景，去掉白色盒子，消除色差边界 */
 .container {
   max-width:900px;
   margin:0 auto 2.5rem auto;
-  padding:36px;
-  background:transparent; /* 关键：取消容器白底，和body融为一体 */
-}
-
-.container h2{
-  margin:1.2rem 0 0.6rem;
-  font-size:24px;
-  color:#2266dd;
-}
-
-.container h1{
-  font-size:28px;
-  color:#2266dd;
-  margin-bottom:24px;
+  padding:0 36px;
+  background:transparent;
 }
 
 a{
   color:#0044aa;
   text-decoration:none;
 }
-
 a:hover{
   text-decoration:underline;
+}
+
+h3{
+  margin:24px 0 10px 0;
 }
 
 ul {
   padding-left:22px;
   margin-bottom:1rem;
 }
-
 ul li {
   margin:0.5rem 0;
 }
 
-hr{
-  margin:1.8rem 0;
-  border:0;
-  border-top:1px solid #cccccc;
+/*论文悬挂缩进核心样式*/
+.paper-list{
+  padding-left:24px;
+  margin:12px 0 26px 0;
+}
+.paper-list li{
+  margin-bottom:12px;
+  padding-left:22px;
+  text-indent:-22px;
+  line-height:1.62;
 }
 
-/* 手机适配，和research完全一致 */
 @media(max-width:720px){
-  .page-header{
-    padding:18px 20px 30px 20px;
+  .top-header{
+    padding:12px 16px;
   }
-
-  .topnav{
-    text-align:left;
-    margin-bottom:24px;
+  .header-wrap{
+    flex-direction:column;
+    align-items:flex-start;
+    gap:12px;
   }
-
-  .topnav a{
-    font-size:14px;
-    margin:0 10px 8px 0;
+  .brand-name{font-size:20px;}
+  .top-nav{
+    gap:12px;
+    flex-wrap:wrap;
   }
-
-  .page-title-home{
-    font-size:30px;
+  .top-nav a{
+    font-size:18px;
   }
-
-  .container{
-    padding:22px;
-    margin:0 auto 1.5rem auto;
+  .page-title{
+    font-size:34px;
+    padding:0 22px;
   }
+  .container{padding:0 22px;}
 }
 </style>
 </head>
 <body>
 
-<div class="page-header">
-  <div class="topnav">
-    <a href="index.html">Home</a>
+</body>
+</html>
+
+<div class="top-header">
+  <div class="header-wrap">
+    <div class="brand-name"><a href="index.html">Sichen Li</a></div>
+    <div class="top-nav">
+     <a href="index.html">Home</a>
     <a href="research.html">Research</a>
     <a href="travel.html">Travel</a>
     <a href="talks.html">Talks</a>
@@ -147,7 +145,9 @@ hr{
     <a href="links.html">Links</a>
     <a href="visitors.html">Visitors</a>
     <a href="chinese.html">Chinese</a>
+    </div>
   </div>
+</div>
 
   <h1 class="page-title">Links</h1>
 </div>

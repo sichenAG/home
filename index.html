@@ -20,7 +20,7 @@ body {
   background-size:cover;
   background-position:center;
   position:relative;
-  padding:16px 0 48px 0;
+  padding:16px 0 32px 0;
   color:white;
 }
 
@@ -33,7 +33,10 @@ body {
   pointer-events:none;
 }
 
-.page-header > *{
+.header-inner{
+  max-width:900px;
+  margin:0 auto;
+  padding:0 32px;
   position:relative;
   z-index:2;
 }
@@ -110,7 +113,10 @@ hr{
 /* 手机适配，和research完全一致 */
 @media(max-width:720px){
   .page-header{
-    padding:18px 20px 30px 20px;
+    padding:12px 0 22px 0;
+  }
+  .header-inner{
+    padding:0 20px;
   }
 
   .topnav{
@@ -135,7 +141,21 @@ hr{
 </style>
 </head>
 <body>
+<div class="page-header">
+  <div class="header-inner">
+    <div class="topnav">
+      <!-- 把你全部导航<a>链接粘贴在这里 -->
+    </div>
+    <h1 class="page-title-home">Sichen Li</h1>
+  </div>
+</div>
 
+<div class="container">
+<!-- 把你About me全部正文粘贴在这里 -->
+</div>
+
+</body>
+</html>
 <div class="page-header">
   <div class="topnav">
     <a href="index.html">Home</a>

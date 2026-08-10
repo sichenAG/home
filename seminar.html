@@ -1,46 +1,145 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+<!DOCTYPE html>
+<html lang="en">
 <head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<title>Talks</title>
-<style type="text/css">
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Sichen LI | Talks</title>
+<style>
+*{margin:0;padding:0;box-sizing:border-box;}
 body {
-	font-family: Arial, Helvetica, sans-serif;
-	max-width:780px;
-	margin:40px auto;
-	padding:0 20px;
-	line-height:1.7;
+  font-family: Arial, Helvetica, sans-serif;
+  line-height:1.65;
+  background:#f3f3f3;
+  color:#222;
 }
-ol {
-	margin-left:22px;
-	margin-bottom:20px;
+
+.nav-links a {
+  color:white;
+  text-decoration:none;
+  margin-left:24px;
+  font-size:17px;
+  cursor:pointer;
 }
-li {
-	margin:8px 0;
+.nav-links a:hover {
+  text-decoration:underline;
 }
-a.home{
-	display:inline-block;
-	margin-bottom:24px;
-	text-decoration:none;
-	color:#0044aa;
+
+.nav-name {
+  font-size:22px;
+  font-weight:bold;
+  color:white;
 }
-a.home:hover{
-	text-decoration:underline;
+
+/* Banner */
+.banner {
+  width:100%;
+  height:420px;
+  background:url("./banner.jpg");
+  background-size:cover;
+  background-position:center;
+  position:relative;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+  color:white;
+}
+.banner::before{
+  content:"";
+  position:absolute;
+  inset:0;
+  background:rgba(0,0,0,0.48);
+  z-index:1;
+  pointer-events:none;
+}
+.banner > *{
+  position:relative;
+  z-index:2;
+}
+
+nav {
+  position:absolute;
+  top:22px;
+  left:24px;
+  right:24px;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
+.banner h1 {
+  font-size:38px;
+  font-weight:normal;
+}
+
+/* 正文 */
+.container {
+  max-width:780px;
+  margin:2.5rem auto;
+  padding:36px;
+  background:#ffffff;
+}
+.container h2{
+  color:#2266dd;
+  margin-bottom:1rem;
+  font-size:24px;
+}
+a{
+  color:#0044aa;
+  text-decoration:none;
+}
+a:hover{
+  text-decoration:underline;
+}
+ol li {
+  margin:0.7rem 0;
+}
+hr{
+  margin:1.8rem 0;
+  border:0;
+  border-top:1px solid #cccccc;
+}
+
+/* 手机端 */
+@media(max-width:720px){
+  nav{
+    flex-direction:column;
+    gap:10px;
+  }
+  .nav-links a{
+    margin:0 8px;
+    font-size:15px;
+  }
+  .banner{height:320px;}
+  .banner h1{font-size:28px;}
+  .container{
+    padding:22px;
+    margin:1.5rem auto;
+  }
 }
 </style>
 </head>
-
 <body>
-<p><a class="home" href="index.html">← Back to Home</a></p>
 
-<body>
+<section class="banner">
+<nav>
+  <div class="nav-name">Sichen LI</div>
+  <div class="nav-links">
+    <a href="index.html">Home</a>
+    <a href="chinese.html">Chinese</a>
+    <a href="cv.html"> cv </a>
+    <a href="research.html">Research</a>
+    <a href="talks.html">Talks</a>
+    <a href="teaching.html">Teaching</a>
+    <a href="seminar.html"> Seminar </a>
+    <a href="links.html">Links</a>
+  </div>
+</nav>
+  <h1>Talks</h1>
+</section>
+
 <p><strong> ECUST Algebraic Geometry and Complex Geometry Seminar </strong></p>
 <p><strong>Organizer: </strong> Sichen Li (ECUST)</p>
-  
-<p>The purpose of this seminar is to introduce recent results on algebraic geometry and complex geometry since 2023 Fall. </p>
-
-<p>If you are interested in giving a talk on your results, please contact the organizer(<a href="mailto:sichenli@ecust.edu.cn">sichenli@ecust.edu.cn</a>).</p>
-
  
 <p><strong>2023  Fall </strong></p>
 

@@ -9,11 +9,10 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   line-height:1.65;
-  background:#ffffff;  /* 页面整体改为纯白，不再有侧边灰 */
+  background:#ffffff;
   color:#222;
 }
 
-/* ========== 和research.html完全一致的头部 ========== */
 .page-header {
   width:100%;
   background:url("./banner.jpg");
@@ -38,7 +37,6 @@ body {
   z-index:2;
 }
 
-/* 导航：右上角小链接，全站统一 */
 .topnav {
   text-align:right;
   margin-bottom:36px;
@@ -55,7 +53,6 @@ body {
   text-decoration:underline;
 }
 
-/* 首页标题：居中；research页面标题是左对齐 */
 .page-title-home {
   font-size:42px;
   font-weight:normal;
@@ -63,12 +60,11 @@ body {
   margin:0;
 }
 
-/* 正文容器：透明背景，去掉白色盒子，消除色差边界 */
 .container {
   max-width:900px;
   margin:0 auto 2.5rem auto;
   padding:36px;
-  background:transparent; /* 关键：取消容器白底，和body融为一体 */
+  background:transparent;
 }
 
 .container h2{
@@ -81,6 +77,11 @@ body {
   font-size:28px;
   color:#2266dd;
   margin-bottom:24px;
+}
+
+.container h3 {
+  margin:1.4rem 0 0.8rem;
+  font-size:20px;
 }
 
 a{
@@ -101,13 +102,22 @@ ul li {
   margin:0.5rem 0;
 }
 
+/* 有序列表：论文条目拉开间距，解决拥挤问题 */
+ol {
+  padding-left: 26px;
+  margin-bottom: 1rem;
+}
+ol li {
+  margin-bottom: 1.4em;
+  line-height: 1.65;
+}
+
 hr{
   margin:1.8rem 0;
   border:0;
   border-top:1px solid #cccccc;
 }
 
-/* 手机适配，和research完全一致 */
 @media(max-width:720px){
   .page-header{
     padding:18px 20px 30px 20px;
@@ -153,13 +163,9 @@ hr{
 </div>
 
 <div class="container">
-</section>
-
-
 
 <h3>Publication (including accepted papers): </h3>
 <ol>
-<li> Sichen Li, A note on Zariski dense orbit conjecture, submitted, arXiv:2208.02616. [<a href="https://arxiv.org/pdf/2208.02616">arXiv</a>]</li>
 <li> Sichen Li, Integral Zariski decompositions on smooth projective surfaces, <em>J. Algebra Appl.</em> 25 (2026), no. 11, 2650116, 7 pp. [<a href="https://www.worldscientific.com/doi/pdf/10.1142/S0219498826501161?download=true" target="_blank"> Journal</a>][<a href="https://arxiv.org/pdf/2306.11292">arXiv</a>]</li>
 <li> Sichen Li, Kawaguchi‑Silverman conjecture on automorphisms of projective threefolds (Dedicated to Professor De‑Qi Zhang on his sixtieth birthday), <em>Internat. J. Math.</em> 35 (2024), no. 3, 2450002, 16 pp.  [<a href="https://www.worldscientific.com/doi/10.1142/S0129167X24500022" target="_blank">Journal</a>][<a href="https://arxiv.org/pdf/2209.06815">arXiv</a>]</li>
 <li> Sichen Li, Bounded cohomology property on a smooth projective surface with Picard number two (Dedicated to Professor Sheng‑Li Tan on his sixtieth birthday), <em>Comm. Algebra</em> 51(2023), no. 12, 5235‑5241. [<a href="https://doi.org/10.1080/00927872.2023.2227707" target="_blank">Journal</a>][<a href="https://arxiv.org/pdf/2103.02180">arXiv</a>]</li>
@@ -170,6 +176,8 @@ hr{
 <li> Sichen Li, A note on a smooth projective surface with Picard number 2, <em>Math. Nachr.</em> 292(2019), no. 12, 2637‑2642. [<a href="https://doi.org/10.1002/mana.201800448" target="_blank">Journal</a>][<a href="https://arxiv.org/pdf/1805.08362" target="_blank">arXiv</a>]</li>
 </ol>
 
+<hr>
+
 <h3> Preprints: </h3>
 <ol>
 <li> Antonio Laface, Sichen Li and Jihao Liu, Mori dream Jacobian elliptic surfaces of Kodaira dimension one, 2026.</li>
@@ -178,9 +186,13 @@ hr{
 <li> Sichen Li, Free abelian group actions on projective fibered varieties, submitted. </li>
 <li> Sichen Li, Smooth projective surfaces with bounded cohomology property II, submitted. </li>
 <li> Ziyu Hua and Sichen Li, Smooth projective surfaces with bounded cohomology property, submitted, arXiv:2306.07830v4. [<a href="https://arxiv.org/pdf/2306.07830v4">arXiv</a>]</li>
+<li> Sichen Li, A note on Zariski dense orbit conjecture, submitted, arXiv:2208.02616. [<a href="https://arxiv.org/pdf/2208.02616">arXiv</a>]</li>
 </ol>
-  
+
+<h3> Others: </h3>
+<ol>
+<li> Sichen Li, Bounding cohomology on a smooth projective surface, arXiv: 1805.10741. [a href="https://arxiv.org/abs/1805.10741">arXiv</a>]</li>
+</ol>
+</div>
 </body>
 </html>
-
-

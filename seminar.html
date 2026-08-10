@@ -9,11 +9,10 @@
 body {
   font-family: Arial, Helvetica, sans-serif;
   line-height:1.65;
-  background:#ffffff;  /* 页面整体改为纯白，不再有侧边灰 */
+  background:#ffffff;
   color:#222;
 }
 
-/* ========== 和research.html完全一致的头部 ========== */
 .page-header {
   width:100%;
   background:url("./banner.jpg");
@@ -38,7 +37,6 @@ body {
   z-index:2;
 }
 
-/* 导航：右上角小链接，全站统一 */
 .topnav {
   text-align:right;
   margin-bottom:36px;
@@ -55,7 +53,6 @@ body {
   text-decoration:underline;
 }
 
-/* 首页标题：居中；research页面标题是左对齐 */
 .page-title-home {
   font-size:42px;
   font-weight:normal;
@@ -63,12 +60,11 @@ body {
   margin:0;
 }
 
-/* 正文容器：透明背景，去掉白色盒子，消除色差边界 */
 .container {
   max-width:900px;
   margin:0 auto 2.5rem auto;
   padding:36px;
-  background:transparent; /* 关键：取消容器白底，和body融为一体 */
+  background:transparent;
 }
 
 .container h2{
@@ -84,7 +80,7 @@ body {
 }
 
 .container h3{
-  margin:1.4rem 0 0.6rem;
+  margin:1.4rem 0 0.8rem;
 }
 
 a{
@@ -111,36 +107,32 @@ hr{
   border-top:1px solid #cccccc;
 }
 
-/* ====== 新增 seminar‑item 样式，报告之间空一行间距 ====== */
-.seminar‑item {
-  margin‑bottom: 2.2em;
+/* 每个报告内部行间距 */
+.seminar-item p {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+  line-height: 1.55;
 }
-.seminar‑item p {
-  margin‑top: 0.3em;
-  margin‑bottom: 0.3em;
-  line‑height: 1.55;
+/* 除第一个报告块，其余全部上方增加间距，强制拉开报告之间空白 */
+.seminar-item + .seminar-item {
+  margin-top: 2.2em;
 }
 
-/* 手机适配，和research完全一致 */
 @media(max-width:720px){
   .page-header{
     padding:18px 20px 30px 20px;
   }
-
   .topnav{
     text-align:left;
     margin-bottom:24px;
   }
-
   .topnav a{
     font-size:14px;
     margin:0 10px 8px 0;
   }
-
   .page-title-home{
     font-size:30px;
   }
-
   .container{
     padding:22px;
     margin:0 auto 1.5rem auto;
@@ -170,7 +162,7 @@ hr{
 <div class="container">
 
 <h3> 2023 Fall </h3>
-<div class="seminar‑item">
+<div class="seminar-item">
   <p>Time: 2023,Oct. 27 (FRI), 15:30‑16:30 (Beijing)</p>
   <p>Location: D302,Fengxian Campus</p>
   <p>Speaker: <strong> Min‑Jie Luo </strong> (Donghua University)</p>
@@ -178,7 +170,7 @@ hr{
   <p>Abstract: In this talk, we first give a brief review of the early development of the Fractional Calculus. Then, based on the well‑known results of Saigo and Kiryakova, we show the core idea of the Generalized Fractional Calculus and illustrate how it has evolved over the last few decades to become an important part of the modern theory of Fractional Calculus. We also report our latest work on a certain class of fractional integral operators whose kernels involve a very special class of generalized hypergeometric functions. Finally, we point out some problems for further research.</p>
 </div>
 
-<div class="seminar‑item">
+<div class="seminar-item">
   <p>Time: 2023, Oct. 20 (FRI), 16：00‑17：00 (Beijing)</p>
   <p>Location: Room 505, Building No. 8, Xuhui Campus</p>
   <p>Speaker: <strong> Xin Lu </strong> (East China Normal University)</p>
@@ -186,7 +178,7 @@ hr{
   <p>Abstract: The classical Arakelov inequality is key to the Shafarevich conjecture. It gives an upper bound for the degree of the Hodge bundle of a semi‑stable fibration of curves in terms of the base curve and the discriminant. Later on, such type inequalities are extended to higher dimension and to Higgs bundles. In this talk, I will talk about the development of these Arakelov inequalities and the strictness in certain cases. It is based on joint works with Ke Chen, Sheng‑Li Tan, Jin‑Bang Yang, and Kang Zuo.</p>
 </div>
 
-<div class="seminar‑item">
+<div class="seminar-item">
   <p>Time: 2023, Oct. 20 (FRI), 14：45‑15：45 (Beijing)</p>
   <p>Location: Room 505, Building No. 8, Xuhui Campus</p>
   <p>Speaker: <strong> Chen Jiang </strong> (Fudan University)</p>
@@ -194,7 +186,7 @@ hr{
   <p>Abstract: We study birational invariants in order to study birational classifications of varieties. Geography is the study of relations among different invariants. We will focus on two fundamental invariants: canonical volume and geometric genus. For surfaces there are classical results such as Miyaoka‑Yau inequality and Noether inequality. I will discuss higher dimensional analogue of them, and introduce our recent work on the optimal Noehter inequality for 3‑folds joint with Jungkai Chen and Meng Chen.</p>
 </div>
 
-<div class="seminar‑item">
+<div class="seminar-item">
   <p>Time:  2023,Oct.20 (FRI), 13：30‑14：30 (Beijing)</p>
   <p>Location: Room 505, Building No. 8, Xuhui Campus</p>
   <p>Speaker: <strong> Zhengyu Hu </strong> (Chongqing University of Technology)</p>

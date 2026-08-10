@@ -20,22 +20,28 @@ body {
   border-bottom:1px solid #eee;
 }
 
-.top-header .brand{
+.header-wrap{
+  max-width:900px;
+  margin:0 auto;
+  display:flex;
+  justify-content:space-between;
+  align-items:center;
+}
+
+.brand-name{
   font-size:32px;
   color:#222;
   font-weight:normal;
-  text-align:center;
-  margin-bottom:14px;
 }
 
 .top-nav{
-  text-align:right;
+  display:flex;
+  gap:26px;
 }
 .top-nav a{
   color:#222;
   text-decoration:none;
   font-size:24px;
-  margin-left:26px;
 }
 .top-nav a:hover{
   text-decoration:underline;
@@ -74,15 +80,32 @@ ul li {
   margin:0.5rem 0;
 }
 
+/*论文列表悬挂缩进样式，给research页面用*/
+.paper-list{
+  padding-left:24px;
+  margin:16px 0 30px 0;
+}
+.paper-list li{
+  margin-bottom:12px;
+  padding-left:22px;
+  text-indent:-22px;
+  line-height:1.62;
+}
+
 @media(max-width:720px){
   .top-header{
     padding:12px 16px;
   }
-  .brand{font-size:26px;margin-bottom:10px;}
-  .top-nav{text-align:center;}
+  .header-wrap{
+    flex-direction:column;
+    gap:12px;
+  }
+  .brand-name{font-size:26px;}
+  .top-nav{
+    gap:12px;
+  }
   .top-nav a{
     font-size:18px;
-    margin:0 8px;
   }
   .name-banner h1{font-size:42px;}
   .container{padding:0 22px;}
@@ -92,15 +115,17 @@ ul li {
 <body>
 
 <div class="top-header">
-  <div class="brand">Homepage</div>
-  <div class="top-nav">
-    <a href="index.html">Home</a>
-    <a href="research.html">Research</a>
-    <a href="teaching.html">Teaching</a>
-    <a href="seminar.html">Seminar</a>
-    <a href="links.html">Links</a>
-    <a href="visitors.html">Visitors</a>
-    <a href="chinese.html">Chinese</a>
+  <div class="header-wrap">
+    <div class="brand-name">Sichen Li</div>
+    <div class="top-nav">
+      <a href="index.html">Home</a>
+      <a href="research.html">Research</a>
+      <a href="teaching.html">Teaching</a>
+      <a href="seminar.html">Seminar</a>
+      <a href="links.html">Links</a>
+      <a href="visitors.html">Visitors</a>
+      <a href="chinese.html">Chinese</a>
+    </div>
   </div>
 </div>
 

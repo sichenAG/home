@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -22,7 +23,11 @@ body {
   max-width:1200px;
   margin:0 auto;
   display:flex;
-  justify-content:flex-start;
+  justify-content:center; /* ✅ 外层：让内部整块导航居中 */
+  align-items:center;
+}
+.nav-full{
+  display:flex;
   align-items:center;
   gap:32px;
 }
@@ -101,6 +106,10 @@ ul li {
   .header-wrap{
     flex-direction:column;
     align-items:flex-start;
+  }
+  .nav-full{
+    flex-direction:column;
+    align-items:flex-start;
     gap:12px;
   }
   .brand-name{font-size:20px;}
@@ -118,20 +127,31 @@ ul li {
   .container{padding:0 22px;}
 }
 </style>
+<!-- MathJax 国内CDN -->
+<script src="https://cdn.bootcdn.net/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js"></script>
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$','$'], ['\\(','\\)']]
+  }
+};
+</script>
 </head>
 <body>
 <div class="top-header">
   <div class="header-wrap">
-    <div class="top-nav">
-     <a href="index.html">Home</a>
-    <a href="research.html">Research</a>
-    <a href="travel.html" class="active">Travel</a>
-    <a href="talks.html">Talks</a>
-    <a href="teaching.html">Teaching</a>
-    <a href="seminar.html">Seminar</a>
-    <a href="links.html">Links</a>
-    <a href="visitors.html">Visitors</a>
-    <a href="chinese.html">Chinese</a>
+    <!-- 新增外层包裹容器，把名字+导航打包成一个整体 -->
+      <div class="top-nav">
+        <a href="index.html">Home</a>
+        <a href="research.html" class="active">Research</a>
+        <a href="travel.html">Travel</a>
+        <a href="talks.html">Talks</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="seminar.html">Seminar</a>
+        <a href="links.html">Links</a>
+        <a href="visitors.html">Visitors</a>
+        <a href="chinese.html">Chinese</a>
+      </div>
     </div>
   </div>
 </div>

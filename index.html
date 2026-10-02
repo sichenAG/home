@@ -12,7 +12,6 @@ body {
   background:#ffffff;
   color:#222;
 }
-
 .top-header{
   width:100%;
   background:#ffffff;
@@ -49,25 +48,24 @@ body {
   text-decoration:underline;
 }
 .name-banner{
-  max-width:1200px;   /* 新增：和上下统一宽度 */
-  margin:0 auto;      /* 新增：盒子居中，对齐导航、container */
-  padding:40px 36px;  /* padding改成36px，和container左右边距统一 */
+  max-width:1200px;
+  margin:0 auto;
+  padding:40px 36px;
   text-align:center;
 }
 .name-banner h1{
   font-size:64px;
   color:#185b8c;
   font-weight:normal;
-  margin:0; /* 消除h1默认上下外边距，避免多余空白 */
+  margin:0;
 }
 .container {
   max-width:1200px;
   margin:0 auto 2.5rem auto;
   padding:0 36px;
   background:transparent;
-  text-align:left; /* 正文内部文字左对齐，学术主页标准 */
+  text-align:left;
 }
-
 a{
   color:#0044aa;
   text-decoration:none;
@@ -75,7 +73,6 @@ a{
 a:hover{
   text-decoration:underline;
 }
-
 ul {
   padding-left:22px;
   margin-bottom:1rem;
@@ -83,7 +80,6 @@ ul {
 ul li {
   margin:0.5rem 0;
 }
-
 /*论文列表悬挂缩进样式，给research页面用*/
 .paper-list{
   padding-left:24px;
@@ -95,7 +91,6 @@ ul li {
   text-indent:-22px;
   line-height:1.62;
 }
-
 @media(max-width:720px){
   .top-header{
     padding:12px 16px;
@@ -119,10 +114,6 @@ ul li {
 </style>
 </head>
 <body>
-
-
-<body>
-
 <div class="top-header">
   <div class="header-wrap">
     <div class="top-nav">
@@ -139,7 +130,9 @@ ul li {
   </div>
 </div>
 
-  <h1 class="page-title">Sichen Li</h1>
+<!-- 核心改动：套上 name-banner -->
+<div class="name-banner">
+  <h1>Sichen Li</h1>
 </div>
 
 <div class="container">
@@ -156,6 +149,5 @@ Prior to that, I got my B.Sc. from <a href="https://eng.hubu.edu.cn"> Hubei Univ
 <li>Email: <a href="mailto:sichenli@ecust.edu.cn">sichenli@ecust.edu.cn</a></li>
 </ul>
 </div>
-
 </body>
 </html>

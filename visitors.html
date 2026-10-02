@@ -1,9 +1,10 @@
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>  Visitors </title>
+<title>Vistors</title>
 <style>
 *{margin:0;padding:0;box-sizing:border-box;}
 body {
@@ -12,23 +13,24 @@ body {
   background:#ffffff;
   color:#222;
 }
-
 .top-header{
   width:100%;
   background:#ffffff;
   padding:16px 32px;
   border-bottom:1px solid #eee;
 }
-
 .header-wrap{
   max-width:1200px;
   margin:0 auto;
   display:flex;
-  justify-content:flex-start;
+  justify-content:center; /* ✅ 外层：让内部整块导航居中 */
+  align-items:center;
+}
+.nav-full{
+  display:flex;
   align-items:center;
   gap:32px;
 }
-
 .brand-name{
   font-size:22px;
   color:#222;
@@ -39,7 +41,6 @@ body {
   text-decoration:none;
   white-space: nowrap;
 }
-
 .top-nav{
   display:flex;
   gap:26px;
@@ -49,10 +50,12 @@ body {
   text-decoration:none;
   font-size:22px;
 }
+.top-nav a.active{
+  text-decoration:underline;
+}
 .top-nav a:hover{
   text-decoration:underline;
 }
-
 .page-title{
   max-width:1200px;
   margin:2rem auto 1rem auto;
@@ -62,14 +65,12 @@ body {
   font-weight:normal;
   text-align:center;
 }
-
 .container {
   max-width:1200px;
   margin:0 auto 2.5rem auto;
   padding:0 36px;
   background:transparent;
 }
-
 a{
   color:#0044aa;
   text-decoration:none;
@@ -77,11 +78,9 @@ a{
 a:hover{
   text-decoration:underline;
 }
-
 h3{
   margin:24px 0 10px 0;
 }
-
 ul {
   padding-left:22px;
   margin-bottom:1rem;
@@ -89,7 +88,6 @@ ul {
 ul li {
   margin:0.5rem 0;
 }
-
 /*论文悬挂缩进核心样式*/
 .paper-list{
   padding-left:24px;
@@ -101,12 +99,15 @@ ul li {
   text-indent:-22px;
   line-height:1.62;
 }
-
 @media(max-width:720px){
   .top-header{
     padding:12px 16px;
   }
   .header-wrap{
+    flex-direction:column;
+    align-items:flex-start;
+  }
+  .nav-full{
     flex-direction:column;
     align-items:flex-start;
     gap:12px;
@@ -126,24 +127,31 @@ ul li {
   .container{padding:0 22px;}
 }
 </style>
+<!-- MathJax 国内CDN -->
+<script src="https://cdn.bootcdn.net/ajax/libs/mathjax/3.2.2/es5/tex-mml-chtml.js"></script>
+<script>
+window.MathJax = {
+  tex: {
+    inlineMath: [['$','$'], ['\\(','\\)']]
+  }
+};
+</script>
 </head>
 <body>
-
-</body>
-</html>
-
 <div class="top-header">
   <div class="header-wrap">
-    <div class="top-nav">
-     <a href="index.html">Home</a>
-    <a href="research.html">Research</a>
-    <a href="travel.html">Travel</a>
-    <a href="talks.html">Talks</a>
-    <a href="teaching.html">Teaching</a>
-    <a href="seminar.html">Seminar</a>
-    <a href="links.html">Links</a>
-    <a href="visitors.html">Visitors</a>
-    <a href="chinese.html">Chinese</a>
+    <!-- 新增外层包裹容器，把名字+导航打包成一个整体 -->
+      <div class="top-nav">
+        <a href="index.html">Home</a>
+        <a href="research.html" class="active">Research</a>
+        <a href="travel.html">Travel</a>
+        <a href="talks.html">Talks</a>
+        <a href="teaching.html">Teaching</a>
+        <a href="seminar.html">Seminar</a>
+        <a href="links.html">Links</a>
+        <a href="visitors.html">Visitors</a>
+        <a href="chinese.html">Chinese</a>
+      </div>
     </div>
   </div>
 </div>

@@ -19,7 +19,6 @@ body {
   padding:16px 32px;
   border-bottom:1px solid #eee;
 }
-
 .header-wrap{
   max-width:1200px;
   margin:0 auto;
@@ -28,7 +27,6 @@ body {
   align-items:center;
   gap:32px;
 }
-
 .brand-name{
   font-size:22px;
   color:#222;
@@ -38,7 +36,6 @@ body {
   color:#222;
   text-decoration:none;
 }
-
 .top-nav{
   display:flex;
   gap:26px;
@@ -51,22 +48,24 @@ body {
 .top-nav a:hover{
   text-decoration:underline;
 }
-
 .name-banner{
-  padding:40px 20px;
+  max-width:1200px;   /* 新增：和上下统一宽度 */
+  margin:0 auto;      /* 新增：盒子居中，对齐导航、container */
+  padding:40px 36px;  /* padding改成36px，和container左右边距统一 */
   text-align:center;
 }
 .name-banner h1{
   font-size:64px;
   color:#185b8c;
   font-weight:normal;
+  margin:0; /* 消除h1默认上下外边距，避免多余空白 */
 }
-
 .container {
   max-width:1200px;
   margin:0 auto 2.5rem auto;
   padding:0 36px;
   background:transparent;
+  text-align:left; /* 正文内部文字左对齐，学术主页标准 */
 }
 
 a{
